@@ -1,0 +1,2 @@
+# DAKI2-grp3
+Projektet undersøger, hvordan en maskinlæringsmodel kan anvendes til at forudsige de mest sandsynlige reservedele, der skal udskiftes på Thermoplan-kaffemaskiner, baseret på fejlbeskrivelser og historiske serviceoplysninger. Formålet er at reducere nedetid, optimere servicebesøg og minimere unødvendigt kørsel ved at levere en top-5 liste over sandsynlige reservedele ud fra kundens input.

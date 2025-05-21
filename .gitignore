@@ -1,0 +1,30 @@
+peter_noter.txt
+.DS_Store
+ai.txt
+model/tfidf_vectorizer_productid.pkl
+model/rf_classifier_productid.pkl
+peter_log.txt
+Peter_ipynb
+testdatabentax.csv.new
+model_cache.pkl
+cache/cache_note_0_asset_0.pkl
+cache/cache_note_1_asset_0.pkl
+cache/cache_note_1_asset_1.pkl
+cache/cache_note_0_asset_1.pkl
+modelsplit.py
+modelsplit_cv.py
+Thomas kode ny.py
+trained_model.pkl
+trainingdatabentaxnew.new
+Clustering_model_trail_Mathilde.py
+HDBscan.py
+k-means clustering Mathilde.py
+models_full/cluster_classifier.joblib
+models_full/hdbscan_clusterer.joblib
+models_tfidf/hdbscan_clusterer.joblib
+models/
+Maybe_final/classifiers_lda.joblib
+classifiers_lda.joblib
+label_binarizer_lda.joblib
+preprocessor_lda.joblib
+quantity_classifiers_lda.joblib
