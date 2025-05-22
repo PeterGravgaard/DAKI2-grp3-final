@@ -268,6 +268,14 @@ def main():
     print(f"{'Product ID':<25} {'Recall':>7} {'Precision':>9}  Confused with")
     for rec, lbl, prec, mix in rows:
         print(f"{all_labels[lbl]:<25} {rec:7.3f} {prec:9.3f}  {mix}")
+    
+    # Gem produkt-data til CSV (til brug i lanja_vis.py)
+    product_data = pd.DataFrame([
+        {'product_id': all_labels[lbl], 'recall': rec, 'precision': prec, 'count': gt[lbl]}
+        for rec, lbl, prec, _ in rows
+    ])
+    product_data.to_csv('Dataset/product_performance.csv', index=False)
+    print("\nGemt produkt-performance til Dataset/product_performance.csv")
 
 
 if __name__ == "__main__":
