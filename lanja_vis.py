@@ -53,7 +53,7 @@ product_freq = product_freq.merge(product_perf, on='product_id', how='inner')
 
 plt.figure(figsize=(10, 6))
 sns.scatterplot(data=product_freq, x='count', y='recall', color='blue', alpha=0.7)
-plt.title('Recall vs. Product Frequency (Rigtige Data)')
+plt.title('Recall vs. Product Frequency ')
 plt.xlabel('Antal forekomster af produkt (ground truth)')
 plt.ylabel('Recall')
 plt.grid(True, alpha=0.3)
