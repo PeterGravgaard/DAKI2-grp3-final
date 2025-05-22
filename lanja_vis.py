@@ -11,18 +11,18 @@ df.columns = [col.strip().lower().replace(' ', '_') for col in df.columns]
 df['product_id'] = df['product_id_(product)_(product)'].apply(ast.literal_eval)
 df['quantity'] = df['quantity'].apply(ast.literal_eval)
 
-# Tjek om produkt-performance data findes, hvis ikke, kør test_testset maj 20.py først
+# Check if product performance data exists, if not, run test_testset maj 20.py first
 product_performance_path = "Dataset/product_performance.csv"
 if not os.path.exists(product_performance_path):
-    print("FEJL: Product performance data findes ikke.")
-    print("Kør 'python test_testset\\ maj\\ 20.py' først for at generere data.")
+    print("ERROR: Product performance data not found.")
+    print("Run 'python test_testset\\ maj\\ 20.py' first to generate the data.")
     exit(1)
 
-# Indlæs rigtig recall og precision data
+# Load recall and precision data
 product_perf = pd.read_csv(product_performance_path)
-print(f"Indlæst performance data for {len(product_perf)} produkter")
+print(f"Loaded performance data for {len(product_perf)} products")
 
-# Udvid datasættet: én række pr. produkt
+# Expand the dataset: one row per product
 rows = []
 for _, row in df.iterrows():
     for pid, qty in zip(row['product_id'], row['quantity']):
@@ -34,19 +34,19 @@ for _, row in df.iterrows():
         })
 df_expanded = pd.DataFrame(rows)
 
-# Slå recall og precision op fra performance data
+# Look up recall and precision from performance data
 product_lookup = product_perf.set_index('product_id').to_dict()
 df_expanded['recall'] = df_expanded['product_id'].map(product_lookup['recall'])
 df_expanded['precision'] = df_expanded['product_id'].map(product_lookup['precision'])
 
-# Håndter produkter der ikke har performance data (kan være i træningssæt men ikke i test)
+# Handle products that don't have performance data (might be in training set but not in test)
 missing_mask = df_expanded['recall'].isna()
 if missing_mask.any():
-    print(f"Bemærk: {missing_mask.sum()} forekomster mangler performance data")
+    print(f"Note: {missing_mask.sum()} occurrences are missing performance data")
     df_expanded = df_expanded.dropna(subset=['recall', 'precision'])
 
-# === VISUALISERING 1 ===
-# Scatterplot: antal forekomster vs recall
+# === VISUALIZATION 1 ===
+# Scatterplot: number of occurrences vs recall
 product_freq = df_expanded.groupby('product_id').size().reset_index(name='dataset_count')
 # Merge with product_perf, ensuring we don't lose the 'count' column from product_perf
 product_freq = product_freq.merge(product_perf, on='product_id', how='inner')
@@ -54,20 +54,20 @@ product_freq = product_freq.merge(product_perf, on='product_id', how='inner')
 plt.figure(figsize=(10, 6))
 sns.scatterplot(data=product_freq, x='count', y='recall', color='blue', alpha=0.7)
 plt.title('Recall vs. Product Frequency')
-plt.xlabel('Antal forekomster af produkt (ground truth)')
+plt.xlabel('Number of product occurrences (ground truth)')
 plt.ylabel('Recall')
 plt.grid(True, alpha=0.3)
 plt.tight_layout()
 plt.savefig('Visual/recall_vs_frequency_scatter.png', dpi=300, bbox_inches='tight')
 plt.close()
 
-# Tilføj trend linje
+# Add trend line
 plt.figure(figsize=(10, 6))
 sns.regplot(data=product_freq, x='count', y='recall', 
            scatter_kws={'alpha': 0.5, 'color': 'blue'}, 
            line_kws={'color': 'navy'})
-plt.title('Recall vs. Product Frequency med Trend Linje')
-plt.xlabel('Antal forekomster af produkt (ground truth)')
+plt.title('Recall vs. Product Frequency with Trend Line')
+plt.xlabel('Number of product occurrences (ground truth)')
 plt.ylabel('Recall')
 plt.grid(True, alpha=0.3)
 plt.tight_layout()
@@ -77,21 +77,21 @@ plt.close()
 
 plt.figure(figsize=(10, 6))
 sns.scatterplot(data=product_freq, x='count', y='precision', color='royalblue', alpha=0.7)
-plt.title('Precision vs. Product Frequency ')
-plt.xlabel('Antal forekomster af produkt (ground truth)')
+plt.title('Precision vs. Product Frequency')
+plt.xlabel('Number of product occurrences (ground truth)')
 plt.ylabel('Precision')
 plt.grid(True, alpha=0.3)
 plt.tight_layout()
 plt.savefig('Visual/precision_vs_frequency_scatter.png', dpi=300, bbox_inches='tight')
 plt.close()
 
-# Tilføj trend linje for precision
+# Add trend line for precision
 plt.figure(figsize=(10, 6))
 sns.regplot(data=product_freq, x='count', y='precision', 
            scatter_kws={'alpha': 0.5, 'color': 'steelblue'}, 
            line_kws={'color': 'navy'})
-plt.title('Precision vs. Product Frequency med Trend Linje')
-plt.xlabel('Antal forekomster af produkt (ground truth)')
+plt.title('Precision vs. Product Frequency with Trend Line')
+plt.xlabel('Number of product occurrences (ground truth)')
 plt.ylabel('Precision')
 plt.grid(True, alpha=0.3)
 plt.tight_layout()
@@ -99,8 +99,8 @@ plt.savefig('Visual/precision_vs_frequency_trend.png', dpi=300, bbox_inches='tig
 plt.close()
 
 
-# === VISUALISERING 2 ===
-# Instruction length pr. produkt_id vs recall OG precision
+# === VISUALIZATION 2 ===
+# Instruction length per product_id vs recall AND precision
 length_perf = df_expanded.groupby('product_id').agg({
     'instruction_length': 'mean',
     'recall': 'mean',
@@ -110,20 +110,20 @@ length_perf = df_expanded.groupby('product_id').agg({
 plt.figure(figsize=(10, 6))
 sns.scatterplot(data=length_perf, x='instruction_length', y='recall', color='blue', alpha=0.7)
 plt.title('Instruction Length vs Recall per Product')
-plt.xlabel('Gennemsnitlig længde af instruktion')
+plt.xlabel('Average instruction length')
 plt.ylabel('Recall')
 plt.grid(True, alpha=0.3)
 plt.tight_layout()
 plt.savefig('Visual/recall_vs_instruction_scatter.png', dpi=300, bbox_inches='tight')
 plt.close()
 
-# Tilføj trend linje
+# Add trend line
 plt.figure(figsize=(10, 6))
 sns.regplot(data=length_perf, x='instruction_length', y='recall', 
            scatter_kws={'alpha': 0.5, 'color': 'blue'}, 
            line_kws={'color': 'navy'})
-plt.title('Instruction Length vs Recall med Trend Linje')
-plt.xlabel('Gennemsnitlig længde af instruktion')
+plt.title('Instruction Length vs Recall with Trend Line')
+plt.xlabel('Average instruction length')
 plt.ylabel('Recall')
 plt.grid(True, alpha=0.3)
 plt.tight_layout()
@@ -134,20 +134,20 @@ plt.close()
 plt.figure(figsize=(10, 6))
 sns.scatterplot(data=length_perf, x='instruction_length', y='precision', color='cornflowerblue', alpha=0.7)
 plt.title('Instruction Length vs Precision per Product')
-plt.xlabel('Gennemsnitlig længde af instruktion')
+plt.xlabel('Average instruction length')
 plt.ylabel('Precision')
 plt.grid(True, alpha=0.3)
 plt.tight_layout()
 plt.savefig('Visual/precision_vs_instruction_scatter.png', dpi=300, bbox_inches='tight')
 plt.close()
 
-# Tilføj trend linje
+# Add trend line
 plt.figure(figsize=(10, 6))
 sns.regplot(data=length_perf, x='instruction_length', y='precision', 
            scatter_kws={'alpha': 0.5, 'color': 'cornflowerblue'}, 
            line_kws={'color': 'navy'})
-plt.title('Instruction Length vs Precision med Trend Linje')
-plt.xlabel('Gennemsnitlig længde af instruktion')
+plt.title('Instruction Length vs Precision with Trend Line')
+plt.xlabel('Average instruction length')
 plt.ylabel('Precision')
 plt.grid(True, alpha=0.3)
 plt.tight_layout()
@@ -155,14 +155,14 @@ plt.savefig('Visual/precision_vs_instruction_trend.png', dpi=300, bbox_inches='t
 plt.close()
 
 
-# === VISUALISERING 3 ===
-# Top 20 og bund 20 asset products baseret på recall
+# === VISUALIZATION 3 ===
+# Top 20 and bottom 20 asset products based on recall
 asset_perf = df_expanded.groupby('asset_product')['recall'].mean().reset_index()
 asset_counts = df_expanded.groupby('asset_product').size().reset_index(name='count')
 asset_perf = asset_perf.merge(asset_counts, on='asset_product')
 
-# Filtrer evt. for assets med tilstrækkeligt antal forekomster
-min_count = 5  # Minimum antal forekomster for at inkludere et asset
+# Filter for assets with sufficient number of occurrences
+min_count = 5  # Minimum number of occurrences to include an asset
 asset_perf_filtered = asset_perf[asset_perf['count'] >= min_count]
 
 top_20 = asset_perf_filtered.sort_values(by='recall', ascending=False).head(20)
@@ -171,9 +171,9 @@ bottom_20 = asset_perf_filtered.sort_values(by='recall', ascending=True).head(20
 plt.figure(figsize=(12, 10))
 bars = sns.barplot(data=top_20, x='recall', y='asset_product', hue='asset_product', palette='Blues_d', legend=False)
 plt.title('Top 20 Asset Products by Average Recall')
-plt.xlabel('Gennemsnitlig Recall')
+plt.xlabel('Average Recall')
 plt.ylabel('Asset Product')
-# Tilføj antal forekomster på hver bar
+# Add number of occurrences on each bar
 for i, row in enumerate(top_20.itertuples()):
     plt.text(0.01, i, f"n={row.count}", va='center')
 plt.tight_layout()
@@ -183,9 +183,9 @@ plt.close()
 plt.figure(figsize=(12, 10))
 bars = sns.barplot(data=bottom_20, x='recall', y='asset_product', hue='asset_product', palette='Blues', legend=False)
 plt.title('Bottom 20 Asset Products by Average Recall')
-plt.xlabel('Gennemsnitlig Recall')
+plt.xlabel('Average Recall')
 plt.ylabel('Asset Product')
-# Tilføj antal forekomster på hver bar
+# Add number of occurrences on each bar
 for i, row in enumerate(bottom_20.itertuples()):
     plt.text(0.01, i, f"n={row.count}", va='center')
 plt.tight_layout()
@@ -193,33 +193,33 @@ plt.savefig('Visual/bottom20_asset_recall.png', dpi=300, bbox_inches='tight')
 plt.close()
 
 
-# === EKSTRA VISUALISERING ===
-# F1-score beregning og visualisering
+# === EXTRA VISUALIZATION ===
+# F1-score calculation and visualization
 product_freq['f1'] = 2 * (product_freq['precision'] * product_freq['recall']) / (product_freq['precision'] + product_freq['recall'])
 
 plt.figure(figsize=(10, 6))
 sns.regplot(data=product_freq, x='count', y='f1', 
            scatter_kws={'alpha': 0.6, 'color': 'mediumblue'}, 
            line_kws={'color': 'navy'})
-plt.title('F1-Score vs. Product Frequency med Trend Linje')
-plt.xlabel('Antal forekomster af produkt (ground truth)')
+plt.title('F1-Score vs. Product Frequency with Trend Line')
+plt.xlabel('Number of product occurrences (ground truth)')
 plt.ylabel('F1-Score')
 plt.grid(True, alpha=0.3)
 plt.tight_layout()
 plt.savefig('Visual/f1_vs_frequency.png', dpi=300, bbox_inches='tight')
 plt.close()
 
-# Gem alle visualiseringer til filer
-print("\nGemmer visualiseringer til Visual mappe...")
+# Save all visualizations to files
+print("\nSaving visualizations to Visual folder...")
 
-# Vi har allerede gemt visualiseringerne ovenfor, så denne sektion er ikke længere nødvendig
-# Men vi beholder filnavnene for kompatibilitet
+# We've already saved the visualizations above, so this section is no longer necessary
+# But we keep the filenames for compatibility
 plt.figure(figsize=(10, 6))
 sns.regplot(data=product_freq, x='count', y='recall', 
            scatter_kws={'alpha': 0.5, 'color': 'blue'}, 
            line_kws={'color': 'navy'})
-plt.title('Recall vs. Product Frequency med Trend Linje')
-plt.xlabel('Antal forekomster af produkt (ground truth)')
+plt.title('Recall vs. Product Frequency with Trend Line')
+plt.xlabel('Number of product occurrences (ground truth)')
 plt.ylabel('Recall')
 plt.grid(True, alpha=0.3)
 plt.tight_layout()
@@ -231,21 +231,21 @@ plt.figure(figsize=(10, 6))
 sns.regplot(data=product_freq, x='count', y='precision', 
            scatter_kws={'alpha': 0.5, 'color': 'steelblue'}, 
            line_kws={'color': 'navy'})
-plt.title('Precision vs. Product Frequency med Trend Linje')
-plt.xlabel('Antal forekomster af produkt (ground truth)')
+plt.title('Precision vs. Product Frequency with Trend Line')
+plt.xlabel('Number of product occurrences (ground truth)')
 plt.ylabel('Precision')
 plt.grid(True, alpha=0.3)
 plt.tight_layout()
 plt.savefig('Visual/precision_vs_frequency.png', dpi=300, bbox_inches='tight')
 plt.close()
 
-# Gem også med oprindelige filnavne for kompatibilitet
+# Also save with original filenames for compatibility
 plt.figure(figsize=(10, 6))
 sns.regplot(data=length_perf, x='instruction_length', y='recall', 
            scatter_kws={'alpha': 0.5, 'color': 'blue'}, 
            line_kws={'color': 'navy'})
-plt.title('Instruction Length vs Recall med Trend Linje')
-plt.xlabel('Gennemsnitlig længde af instruktion')
+plt.title('Instruction Length vs Recall with Trend Line')
+plt.xlabel('Average instruction length')
 plt.ylabel('Recall')
 plt.grid(True, alpha=0.3)
 plt.tight_layout()
@@ -256,12 +256,12 @@ plt.figure(figsize=(10, 6))
 sns.regplot(data=length_perf, x='instruction_length', y='precision', 
            scatter_kws={'alpha': 0.5, 'color': 'cornflowerblue'}, 
            line_kws={'color': 'navy'})
-plt.title('Instruction Length vs Precision med Trend Linje')
-plt.xlabel('Gennemsnitlig længde af instruktion')
+plt.title('Instruction Length vs Precision with Trend Line')
+plt.xlabel('Average instruction length')
 plt.ylabel('Precision')
 plt.grid(True, alpha=0.3)
 plt.tight_layout()
 plt.savefig('Visual/precision_vs_instruction_length.png', dpi=300, bbox_inches='tight')
 plt.close()
 
-print("Alle visualiseringer er gemt i Visual mappen.")
+print("All visualizations saved to the Visual folder.")
