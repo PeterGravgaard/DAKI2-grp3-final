@@ -166,7 +166,7 @@ def main():
 
         Y_cnt_full = np.array([cnt_vec_full(r) for _, r in df.iterrows()]).astype(int)
 
-        # -- proba / qty_pred uitbreiden med nullen --
+        # -- proba / qty_pred uitbreiden med nuller --
         n = len(df)
         proba_full    = np.zeros((n, len(all_labels)))
         qty_pred_full = np.zeros_like(proba_full, dtype=int)
@@ -200,6 +200,35 @@ def main():
         print(f"{k:>15}: {v:.3f}")
     print(f"quantity_acc precision: {qty_prec:.3f}")
     print(f"quantity_acc recall:    {qty_rec:.3f}")
+
+    # --- Confusion matrix for quantity prediction ---
+    from sklearn.metrics import confusion_matrix
+    import matplotlib.pyplot as plt
+    # Flad arrays ud og tag kun de steder hvor true > 0
+    true_qty_flat = Y_cnt.flatten()
+    pred_qty_flat = qty_pred.flatten()
+    mask = true_qty_flat > 0
+    true_qty_nonzero = true_qty_flat[mask]
+    pred_qty_nonzero = pred_qty_flat[mask]
+    cm = confusion_matrix(true_qty_nonzero, pred_qty_nonzero)
+    cm_percent = cm / cm.sum(axis=1, keepdims=True) * 100  # procent per sand quantity
+    plt.figure(figsize=(6,5))
+    plt.imshow(cm_percent, interpolation='nearest', cmap=plt.cm.Blues, vmin=0, vmax=100)
+    plt.title('Confusion Matrix for Quantity Prediction (%)')
+    plt.xlabel('Predicted Quantity')
+    plt.ylabel('True Quantity')
+    plt.colorbar(label='%')
+    tick_marks = np.arange(cm.shape[0])
+    plt.xticks(tick_marks, tick_marks + cm.min())
+    plt.yticks(tick_marks, tick_marks + cm.min())
+    for i in range(cm.shape[0]):
+        for j in range(cm.shape[1]):
+            txt = f"{cm[i, j]}\n{cm_percent[i, j]:.1f}%"
+            plt.text(j, i, txt,
+                     ha="center", va="center",
+                     color="white" if cm_percent[i, j] > 50 else "black", fontsize=10)
+    plt.tight_layout()
+    plt.show()
 
 
     true_sets = [set(np.where(Y_bin[i] == 1)[0]) for i in range(n)]
