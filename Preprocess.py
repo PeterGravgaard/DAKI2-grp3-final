@@ -47,27 +47,34 @@ def load_data(path: str) -> pd.DataFrame:
 
 def group_workorders(df: pd.DataFrame) -> pd.DataFrame:
     """
-    Group rows by Work Order and aggregate relevant columns.
+    function groups workorders based on workorder ids
     """
     agg_funcs = {
         INSTRUCTIONS_COL: lambda texts: ' '.join(
-            str(t) for t in texts if pd.notna(t) and str(t).strip() != ''
+            dict.fromkeys(           # dedublication and keeps orientation
+                str(t).strip() for t in texts
+                if pd.notna(t) and str(t).strip() != ''
+            )
         ),
+        # Product-ID-lijst 
         PRODUCT_ID_COL: lambda ids: [
             i for i in ids if pd.notna(i) and str(i).strip() != ''
         ],
+        # quantity
         QUANTITY_COL: lambda qtys: [
             q for q in qtys if pd.notna(q)
         ],
+        # Primær Asset Produkt 
         ASSET_PRODUCT_COL: lambda vals: ' '.join(
             pd.Series(vals).dropna().unique().astype(str)
         ),
-        WORK_ORDER_TYPE_COL: 'first'
+        #work order type
+        WORK_ORDER_TYPE_COL: 'first',
     }
+
     grouped = df.groupby(WORK_ORDER_COL).agg(agg_funcs).reset_index()
     print(f"Grouped into {len(grouped)} unique work orders.")
     return grouped
-
 
 def print_filter_stats(before: int, after: int, description: str):
     """
