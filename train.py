@@ -114,6 +114,19 @@ def accuracy_counts(y_true_cnt, y_pred_cnt):
     mask = y_true_cnt > 0
     return np.mean((y_true_cnt[mask] == y_pred_cnt[mask]).astype(float))
 
+def quantity_precision_recall(y_true_cnt, y_pred_cnt):
+    """
+    Calculates precision and recall for quantity prediction (nonzero counts).
+    Precision: Of all predicted nonzero, how many are correct.
+    Recall: Of all true nonzero, how many are correctly predicted nonzero.
+    """
+    true_nonzero = (y_true_cnt > 0)
+    pred_nonzero = (y_pred_cnt > 0)
+    tp = np.logical_and(true_nonzero, pred_nonzero).sum()
+    precision = tp / pred_nonzero.sum() if pred_nonzero.sum() else 0.0
+    recall = tp / true_nonzero.sum() if true_nonzero.sum() else 0.0
+    return precision, recall
+
 # --- Preprocessing utilities ---
 def parse_part_list(cell):
     import ast
@@ -246,10 +259,18 @@ def  cross_validate_transformed(Xt, Y_bin, Y_cnt, groups):
         # ------------------ Metrics ------------------
         pm_tr = evaluate(Y_bin[tr], proba[tr])
         pm_tr["quantity_acc"] = accuracy_counts(Y_cnt[tr], qty_pred[tr])
+        # Tilføj quantity precision/recall for træningssplit
+        qty_prec_tr, qty_rec_tr = quantity_precision_recall(Y_cnt[tr], qty_pred[tr])
+        pm_tr["quantity_precision"] = qty_prec_tr
+        pm_tr["quantity_recall"] = qty_rec_tr
         train_metrics.append((fold, pm_tr))
 
         pm_val = evaluate(Y_bin[te], proba[te])
         pm_val["quantity_acc"] = accuracy_counts(Y_cnt[te], qty_pred[te])
+        # Tilføj quantity precision/recall for val split
+        qty_prec_val, qty_rec_val = quantity_precision_recall(Y_cnt[te], qty_pred[te])
+        pm_val["quantity_precision"] = qty_prec_val
+        pm_val["quantity_recall"] = qty_rec_val
         val_metrics.append((fold, pm_val))
 
     print("Cross-validation complete.")
@@ -459,6 +480,11 @@ def main():
         mean_val = val_df.mean().to_dict()
         mean_val['quantity_acc'] = mean_val.get('quantity_acc', accuracy_counts(Y_cnt, qty_pred))
         mean_val['max_features'] = mf
+
+        # --- Calculate and print quantity precision and recall ---
+        qty_prec, qty_rec = quantity_precision_recall(Y_cnt, qty_pred)
+        print(f"quantity_acc precision: {qty_prec:.3f}")
+        print(f"quantity_acc recall: {qty_rec:.3f}")
 
         # 3f) Print out key metrics for this setting
         for metric in [

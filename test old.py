@@ -5,7 +5,6 @@ import numpy as np
 import pandas as pd
 from sklearn.preprocessing import MultiLabelBinarizer
 from nltk.stem.snowball import SnowballStemmer
-from collections import Counter, defaultdict
 
 # ------------------ configuration ------------------
 TOP_K          = 5
@@ -86,19 +85,6 @@ def accuracy_counts(y_true_cnt,y_pred_cnt):
     mask = y_true_cnt > 0
     return np.mean((y_true_cnt[mask]==y_pred_cnt[mask]).astype(float))
 
-def quantity_precision_recall(y_true_cnt, y_pred_cnt):
-    """
-    Calculates precision and recall for quantity prediction (nonzero counts).
-    Precision: Of all predicted nonzero, how many are correct.
-    Recall: Of all true nonzero, how many are correctly predicted nonzero.
-    """
-    true_nonzero = (y_true_cnt > 0)
-    pred_nonzero = (y_pred_cnt > 0)
-    tp = np.logical_and(true_nonzero, pred_nonzero).sum()
-    precision = tp / pred_nonzero.sum() if pred_nonzero.sum() else 0.0
-    recall = tp / true_nonzero.sum() if true_nonzero.sum() else 0.0
-    return precision, recall
-
 def apply_quantity_safeguard(proba, qty_pred, k=TOP_K):
     topk = np.argsort(proba, axis=1)[:, -k:]
     for i,idxs in enumerate(topk):
@@ -166,7 +152,7 @@ def main():
 
         Y_cnt_full = np.array([cnt_vec_full(r) for _, r in df.iterrows()]).astype(int)
 
-        # -- proba / qty_pred uitbreiden med nullen --
+        # -- proba / qty_pred uitbreiden met nullen --
         n = len(df)
         proba_full    = np.zeros((n, len(all_labels)))
         qty_pred_full = np.zeros_like(proba_full, dtype=int)
@@ -175,7 +161,7 @@ def main():
         proba_full[:, old_idx]    = proba
         qty_pred_full[:, old_idx] = qty_pred
 
-        # vervang variabeler
+        # vervang variabelen
         proba, qty_pred, Y_cnt = proba_full, qty_pred_full, Y_cnt_full
         # ----------------------------------------------------
 
@@ -194,51 +180,9 @@ def main():
         "quantity_acc"      : accuracy_counts(Y_cnt, qty_pred)
     }
 
-    qty_prec, qty_rec = quantity_precision_recall(Y_cnt, qty_pred)
     print("\n===== Test-set metrics =====")
     for k, v in metrics.items():
         print(f"{k:>15}: {v:.3f}")
-    print(f"quantity_acc precision: {qty_prec:.3f}")
-    print(f"quantity_acc recall:    {qty_rec:.3f}")
-
-
-    true_sets = [set(np.where(Y_bin[i] == 1)[0]) for i in range(n)]
-    pred_sets = [set(topk[i])                     for i in range(n)]
-
-    tp   = Counter()
-    gt   = Counter()
-    pp   = Counter()
-    conf = defaultdict(Counter)  # confusion[target][other]
-
-    for i in range(n):
-        g = true_sets[i]
-        p = pred_sets[i]  # Rettede 'predsets' til 'pred_sets'
-        for lbl in g:
-            gt[lbl] += 1
-            if lbl in p:
-                tp[lbl] += 1
-        for lbl in p:
-            pp[lbl] += 1
-        for wrong in p - g:
-            for tgt in g:
-                conf[tgt][wrong] += 1
-
-    rows = []
-    for lbl in range(C):
-        if gt[lbl] == 0:
-            continue
-        rec  = tp[lbl] / gt[lbl]
-        prec = tp[lbl] / pp[lbl] if pp[lbl] else 0.0
-        mix  = ", ".join(f"{all_labels[o]} ({c})"  # Rettede 'mlb.classes' til 'all_labels'
-                         for o, c in conf[lbl].most_common(3)) or "—"  # Rettede 'mostcommon' til 'most_common'
-        rows.append((rec, lbl, prec, mix))
-
-    rows.sort(reverse=True)  # højeste recall øverst
-
-    print("\n===== Per-product performance (sorted by recall) =====")
-    print(f"{'Product ID':<25} {'Recall':>7} {'Precision':>9}  Confused with")
-    for rec, lbl, prec, mix in rows:
-        print(f"{all_labels[lbl]:<25} {rec:7.3f} {prec:9.3f}  {mix}")
 
 
 if __name__ == "__main__":
