@@ -20,6 +20,7 @@ WO000180,Maskinen bliver ved med at melde flowfejl (siden 9.30 i morges). Maskin
 WO000181,"Gennemgang før opstart. 
 Færge er i dok fra kl.7 til kl.19 mandag d. 26/4.  Gennemgang før opstart. 
 Færge er i dok fra kl.7 til kl.19 mandag d. 26/4. ","['130301893', '130300346']","[1.0, 2.0]",Thermoplan Kaffemaskine BW4c CTM2 P RS TC,Nedbrud
+WO000191,Vil ikke tage mælk ind Vil ikke tage mælk ind Vil ikke tage mælk ind Vil ikke tage mælk ind Vil ikke tage mælk ind Vil ikke tage mælk ind,"['132000000', '130301624', '130301280', '130301535', '130301715', '130301127']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO000201,Fylder ikke nok i kopperne Fylder ikke nok i kopperne Fylder ikke nok i kopperne Fylder ikke nok i kopperne Fylder ikke nok i kopperne,"['130301922', '130301535', '130301277', '130301806', '130301715']","[1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO000202,Giver ingen mælk,['130301806'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO000203,Kan ikke starte op. når de vil kører rens går maskinerne i sort.,['102230'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
@@ -77,6 +78,7 @@ WO000457,"Kan ikke køre rens, reg. ikke skuffen.",['130301385'],[1.0],Thermopla
 WO000458,Giver ingen mælk Giver ingen mælk,"['130301923', '132000000']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2,Nedbrud
 WO000479,Blå nøgle sidder fast og køleskab fryser Blå nøgle sidder fast og køleskab fryser,"['130302070', '130302425']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO000480,Mail fra CK: Kakao fylder ikke op + fylder ikke nok i kaffekopper Mail fra CK: Kakao fylder ikke op + fylder ikke nok i kaffekopper Mail fra CK: Kakao fylder ikke op + fylder ikke nok i kaffekopper Mail fra CK: Kakao fylder ikke op + fylder ikke nok i kaffekopper,"['130301715', '130301127', '130301535', '130301492']","[1.0, 1.0, 2.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
+WO000487,Melder ingen bønner + og den larmer når den kværner (lyder forkert). Melder ingen bønner + og den larmer når den kværner (lyder forkert). Melder ingen bønner + og den larmer når den kværner (lyder forkert). Melder ingen bønner + og den larmer når den kværner (lyder forkert). Melder ingen bønner + og den larmer når den kværner (lyder forkert). Melder ingen bønner + og den larmer når den kværner (lyder forkert).,"['130301317', '130301344', '130301329', '130301892', '130301318', '130301624']","[1.0, 1.0, 1.0, 1.0, 2.0, 1.0]",Thermoplan Kaffemaskine BW3 CBT2,Nedbrud
 WO000498," 
 Fylder kun halvt op i mælkedrikke. 
  
@@ -117,6 +119,7 @@ WO000686,"Fylder kun halvt op ved latte og mælkedrikke. Sker hver 2. gang ca.  
 Camilla har fjernet mælken nu, så de kun sælger alm. kaffe indtil vi har været der. ",['130302294'],[4.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO000696,Komponentfejl - lægger lidt vand i bunden af maskinen,['130302385'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P RS,Nedbrud
 WO000699,Maskinen på adressen gl. mønt larmer og sprutter når den skal køre.,['130301327'],[2.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
+WO000707,Mail fra Tina: Giver kun halve kopper.  Mail fra Tina: Giver kun halve kopper.  Mail fra Tina: Giver kun halve kopper.  Mail fra Tina: Giver kun halve kopper.  Mail fra Tina: Giver kun halve kopper.  Mail fra Tina: Giver kun halve kopper. ,"['130301773', 'X130302082', '130301535', '132000000', '130301715', '130301127']","[1.0, 1.0, 3.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO000718,"Meget lidt i koppen ved valg af latte
 Maskinen står i nr. 27 Meget lidt i koppen ved valg af latte
 Maskinen står i nr. 27 Meget lidt i koppen ved valg af latte
@@ -130,6 +133,7 @@ Tlf. 32860100. Stopper i rengøringsprogram, step 1. Har sidddet fast i 2 timer.
 
 Tlf. 32860100.","['130301129', '130301181', '130302199']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO000740,Blå rensenøgle lægger der vand fra. Blå rensenøgle lægger der vand fra.,"['130301806', '130302070']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
+WO000746,Melder flow error Melder flow error Melder flow error Melder flow error,"['130301931', '130301377', '130301530', '130302102']","[2.0, 1.0, 1.0, 2.0]",Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO000754,Kan ikke registrere mælkenøglen.,['130302031'],[1.0],Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
 WO000765,Mail fra CK: Doserer forkert. Mail fra CK: Doserer forkert. Mail fra CK: Doserer forkert.,"['130301715', '130301127', '130301922']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO000766,Melder Piston error igen Melder Piston error igen,"['130301201', '130301361']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
@@ -202,6 +206,7 @@ Mail fra RS: mælken løber kun lidt ,så stopper den og vil slet ikke skumme �
 
 ","['130500006', '130304219']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P RS,Nedbrud
 WO001103,Mail fra CK: Mælken fryser i køleskabet. Mail fra CK: Mælken fryser i køleskabet.,"['130302070', '130302425']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
+WO001107,Kan ikke lave varmt vand/The + fryser til i rørene ved mælk. Kan ikke lave varmt vand/The + fryser til i rørene ved mælk. Kan ikke lave varmt vand/The + fryser til i rørene ved mælk. Kan ikke lave varmt vand/The + fryser til i rørene ved mælk. Kan ikke lave varmt vand/The + fryser til i rørene ved mælk. Kan ikke lave varmt vand/The + fryser til i rørene ved mælk. Kan ikke lave varmt vand/The + fryser til i rørene ved mælk. Kan ikke lave varmt vand/The + fryser til i rørene ved mælk.,"['130302194', '130301127', '130302209', '130302269', '130302193', '130302253', '130301923', '130302201']","[1.0, 1.0, 1.0, 1.0, 2.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO001109,"Smider vand bagud, når de trækker kakao.",['130302291'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO001125,"Der står vand ud, der hvor kakaoen løber ud. Hun har prøvet at rense det hele, kakaobeholder, slanger osv., men der løber stadig vand. Så hun lukker maskinen ned.",['130302158'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO001127,Fryser mælken. ,['130301752'],[1.0],Køleskab BW3,Nedbrud
@@ -214,6 +219,17 @@ WO001176,Giver ikke nok på alle mælkedrikke Giver ikke nok på alle mælkedrik
 WO001181,Vil ikke gennemføre renseprogram.,['130302266'],[1.0],Thermoplan Kaffemaskine BW4 CTM2 2M RL TC 380V,Nedbrud
 WO001183,Vil ikke lave mælkedrikke Vil ikke lave mælkedrikke,"['132000000', '130301129']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO001202,Kaffemaskine lækker vand ved skyl og steam.,['130301892'],[1.0],Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
+WO001219,"Mail fra CK: Hver anden kop kommer kun halvt eller under ud.
+“Mælkekaffe produkter” se billede. Gælder både latte og cappocino
+ Mail fra CK: Hver anden kop kommer kun halvt eller under ud.
+“Mælkekaffe produkter” se billede. Gælder både latte og cappocino
+ Mail fra CK: Hver anden kop kommer kun halvt eller under ud.
+“Mælkekaffe produkter” se billede. Gælder både latte og cappocino
+ Mail fra CK: Hver anden kop kommer kun halvt eller under ud.
+“Mælkekaffe produkter” se billede. Gælder både latte og cappocino
+ Mail fra CK: Hver anden kop kommer kun halvt eller under ud.
+“Mælkekaffe produkter” se billede. Gælder både latte og cappocino
+","['130302102', '130301931', '130301118', '130301535', '130301923']","[2.0, 2.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO001224,Mail fra CK: latte får ikke nok mælk i den store. den smager meget grimt og er kun halv fuld Mail fra CK: latte får ikke nok mælk i den store. den smager meget grimt og er kun halv fuld Mail fra CK: latte får ikke nok mælk i den store. den smager meget grimt og er kun halv fuld Mail fra CK: latte får ikke nok mælk i den store. den smager meget grimt og er kun halv fuld,"['130301773', '130301715', '132000000', '130301773']","[2.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO001233,Mail fra CD: Maskinen BW4C i stuen registrerer ikke mælken.,['130302313'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 TC,Nedbrud
 WO001238,Gået i stå i rengøringsprogram  Gået i stå i rengøringsprogram  Gået i stå i rengøringsprogram ,"['130301118', '130301535', '130301128']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
@@ -338,8 +354,10 @@ WO001455,"Mail fra CD:  skylletiderne skal justeres så vi ikke oplever det igen
 
 Det skulle være maskine som står alene.",['130302313'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 TC,Nedbrud
 WO001469,Giver ingen mælk,['130301535'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
+WO001475,Maskine 7 thermoplan siger flow error Maskine 7 thermoplan siger flow error Maskine 7 thermoplan siger flow error Maskine 7 thermoplan siger flow error Maskine 7 thermoplan siger flow error Maskine 7 thermoplan siger flow error,"['130301535', '130305527', '130301715', '130301686', '130302366', '130301535']","[3.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO001479,"Fryser i mælken. Komponentfejl.
 problemer ",['130302287'],[1.0],Thermoplan Kaffemaskine BW4c CTM2,Nedbrud
+WO001480,Vil ikke give mælk Vil ikke give mælk Vil ikke give mælk Vil ikke give mælk Vil ikke give mælk Vil ikke give mælk,"['130302313', '130302194', '130302197', '130301129', '130302199', '132000000']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO001484,Trækker ikke mælk op.,['132000000'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO001486,Mail fra CK: Fryser i køleskabet. ,['130302425'],[1.0],Køleskab BW3,Nedbrud
 WO001505,Kaffe over det hele,['130302221'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P RS,Nedbrud
@@ -357,6 +375,7 @@ WO001589,"Kaffemaskinen i Oasis ( cafeen ) driller os gevaldigt, så den må i o
 WO001590,Maskine 5 thermoplan er kaffegrumsen meget våd Maskine 5 thermoplan er kaffegrumsen meget våd,"['130301317', '130301624']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO001597,Der drypper stadig vand fra rørene under maskinen.,['130302322'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
 WO001605,Mail fra CK: Kaffe bliver ikke varm nok Mail fra CK: Kaffe bliver ikke varm nok Mail fra CK: Kaffe bliver ikke varm nok,"['132000000', '130301922', '130301715']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
+WO001617,I tirsdags da de kørte rens lægger den vand. Gør det også når den brygger kaffe I tirsdags da de kørte rens lægger den vand. Gør det også når den brygger kaffe I tirsdags da de kørte rens lægger den vand. Gør det også når den brygger kaffe,"['130305536', '130301935', '130301443']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO001631,"Den giver for lidt mælk i Latte og Cappuccino. De har tidligere fået den indstillet, så det passer, men nu er det som om, at maskinen er ""hoppet tilbage"" til standardindstilling.",['130301128'],[1.0],Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
 WO001636,Fra mail: der er kommer ikke nok kaffe i kopperne kunder klager Fra mail: der er kommer ikke nok kaffe i kopperne kunder klager Fra mail: der er kommer ikke nok kaffe i kopperne kunder klager,"['132000000', '130301715', 'X130302082']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO001643,Vand fossede ud under rensning Vand fossede ud under rensning Vand fossede ud under rensning Vand fossede ud under rensning,"['130301137', '130302263', '130302244', '132000000']","[1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
@@ -370,6 +389,7 @@ WO001678,Maskinen melder flow fejl sidst i rengøringsproces og rens skal køres
 WO001685,Fra KE: Kan ikke køre rens. Fra KE: Kan ikke køre rens.,"['130301280', '130301624']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO001696,Køleskab fryser,['130301752'],[1.0],Køleskab BW3,Nedbrud
 WO001709,Mail fra CK:  Der mangler ca 5 cm fra kaffe tilvkoppens kant Mail fra CK:  Der mangler ca 5 cm fra kaffe tilvkoppens kant Mail fra CK:  Der mangler ca 5 cm fra kaffe tilvkoppens kant Mail fra CK:  Der mangler ca 5 cm fra kaffe tilvkoppens kant,"['130301127', '130301715', '130301535', '130301128']","[1.0, 1.0, 2.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
+WO001712,En af maskinerne vil ikke suge mælk op En af maskinerne vil ikke suge mælk op En af maskinerne vil ikke suge mælk op En af maskinerne vil ikke suge mælk op En af maskinerne vil ikke suge mælk op En af maskinerne vil ikke suge mælk op En af maskinerne vil ikke suge mælk op,"['130301563', '130301715', '130301492', '115906', '130302366', '130301922', '130301535']","[1.0, 1.0, 1.0, 2.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO001722,Maskinen har lige sagt puf og så var der kaffe ud over det hele. Maskinen har lige sagt puf og så var der kaffe ud over det hele.,"['102128', '130301811']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO001725,"På alm kaffe, ryger vandet ned i grumseskuffen",['130301892'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO001727,Maskinen laver kun halve kopper af alm. kaffe.,['130301739'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
@@ -417,6 +437,7 @@ WO001893,Melder piston error Melder piston error Melder piston error,"['13030162
 WO001896,Driller i kakaoen. Flyder over.  Mistænker bønne i kakao. ,['130302291'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P TC,Nedbrud
 WO001903,melder piston error melder piston error,"['130301361', '130301201']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO001905,"Maskine driller dem. De har kørt rens i nat, men nu er maskine begyndt at nedtælle til rens om lidt igen.  Maskine driller dem. De har kørt rens i nat, men nu er maskine begyndt at nedtælle til rens om lidt igen. ","['130301317', '130301259']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
+WO001914,"Maskinen laver ikke kakao, Latte og capu fylder ikke koppen op. Maskinen laver ikke kakao, Latte og capu fylder ikke koppen op. Maskinen laver ikke kakao, Latte og capu fylder ikke koppen op. Maskinen laver ikke kakao, Latte og capu fylder ikke koppen op. Maskinen laver ikke kakao, Latte og capu fylder ikke koppen op. Maskinen laver ikke kakao, Latte og capu fylder ikke koppen op.","['130301535', '130301806', '130301535', '132000000', '130301923', '130301715']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO001915,"Hver dag under rengøring kommer fejl: Fejl under rengøring, rengøring skal genstartes.",['130301259'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO001934,"Melder filterskift, Peter rykker",['130500006'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO001937,Lyder som en fasan når den kværner espresso og kører rens Lyder som en fasan når den kværner espresso og kører rens,"['130301624', '130301280']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
@@ -424,6 +445,7 @@ WO001947,Utæt ved mælken. Drypper bag grumseskuffe og ned under maskinen.  Hu
 WO001950,Mail fra CK fredag: Den smider vand ud af maskinen da den kørte rengørings program Mail fra CK fredag: Den smider vand ud af maskinen da den kørte rengørings program Mail fra CK fredag: Den smider vand ud af maskinen da den kørte rengørings program,"['130301127', '132000000', 'X130302082']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO001973,Løber vand under maskinen. Meldt ind af CD.,['130302313'],[1.0],Thermoplan Kaffemaskine BW4c CTM2,Nedbrud
 WO001975,Når de vil have varmt mælk kører den men udleverer ikke noget. Sker periodisk Når de vil have varmt mælk kører den men udleverer ikke noget. Sker periodisk Når de vil have varmt mælk kører den men udleverer ikke noget. Sker periodisk,"['130302197', '130301127', '130302294']","[1.0, 1.0, 4.0]",Thermoplan Kaffemaskine BW4c CTM2 P RS,Nedbrud
+WO001983,Laver Flow Error Laver Flow Error Laver Flow Error Laver Flow Error Laver Flow Error Laver Flow Error,"['130301535', '130301923', '130302366', '130301529', '130301715', '130301867']","[3.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO001985,Fra mail: Der skal nogle gange trykkes flere gange før der kommer noget i kopperne....nogle gange kan du ikke med det samme men må vente en tid og der skal trykkes meget hårdt,['130301720R'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO001994,Halve kopper,['130301657'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO001998,"Periodisk ingen mælk. 
@@ -466,6 +488,7 @@ WO002282,"Giver stadig halve kopper kaffe.
 
 Maskinen står i nr 29. 
 ",['130305527'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
+WO002288,Mail fra CK: Doserer for lidt i kopperne. Mail fra CK: Doserer for lidt i kopperne. Mail fra CK: Doserer for lidt i kopperne. Mail fra CK: Doserer for lidt i kopperne. Mail fra CK: Doserer for lidt i kopperne. Mail fra CK: Doserer for lidt i kopperne. Mail fra CK: Doserer for lidt i kopperne. Mail fra CK: Doserer for lidt i kopperne. Mail fra CK: Doserer for lidt i kopperne.,"['130301308', '130301338', '130301492', '130301128', '130302366', '130301715', '130301443', '130302066', '130301563']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO002298,"Melder flow error.
 
 Tlf: 50 44 29 40 Melder flow error.
@@ -540,6 +563,13 @@ WO002618,"Mail fra CK:  Maskinen melder hele tiden at bønnebeholder til venstre
 WO002621,Tilgang slange ved filter er sprunget. Kunde kan ikke sælge kaffe. ,['130304344'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO002622,mælkefejl mælkefejl mælkefejl,"['130302199', '130302197', '130302294']","[1.0, 1.0, 3.0]",Thermoplan Kaffemaskine BW4c CTM2,Nedbrud
 WO002624,"Mail fra Kunde:  It looks, that the hose has to be changed and a general check made.  Mail fra Kunde:  It looks, that the hose has to be changed and a general check made.  Mail fra Kunde:  It looks, that the hose has to be changed and a general check made.  Mail fra Kunde:  It looks, that the hose has to be changed and a general check made.  Mail fra Kunde:  It looks, that the hose has to be changed and a general check made. ","['130301624', '130305527', '130301892', '130301845', '130301181']","[1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
+WO002630,"mail fra CK: Doserer for lidt i kopperne ved kakao
+Update : KAR har snakket med Henning de har tjekket kakaobeholder, så måske er det vanddyse der er stoppet eller mixermotor defekt. mail fra CK: Doserer for lidt i kopperne ved kakao
+Update : KAR har snakket med Henning de har tjekket kakaobeholder, så måske er det vanddyse der er stoppet eller mixermotor defekt. mail fra CK: Doserer for lidt i kopperne ved kakao
+Update : KAR har snakket med Henning de har tjekket kakaobeholder, så måske er det vanddyse der er stoppet eller mixermotor defekt. mail fra CK: Doserer for lidt i kopperne ved kakao
+Update : KAR har snakket med Henning de har tjekket kakaobeholder, så måske er det vanddyse der er stoppet eller mixermotor defekt. mail fra CK: Doserer for lidt i kopperne ved kakao
+Update : KAR har snakket med Henning de har tjekket kakaobeholder, så måske er det vanddyse der er stoppet eller mixermotor defekt. mail fra CK: Doserer for lidt i kopperne ved kakao
+Update : KAR har snakket med Henning de har tjekket kakaobeholder, så måske er det vanddyse der er stoppet eller mixermotor defekt.","['130301338', '130301492', '130301715', '130301535', '130301563', '130302366']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO002632,"Der løber vand inde i maskinen, når de brygger kaffe.",['130301892'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO002638,Halve kopper på bla. små latte og andre mælkedrikke Halve kopper på bla. små latte og andre mælkedrikke Halve kopper på bla. små latte og andre mælkedrikke,"['130301128', '130301535', '130301715']","[1.0, 2.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO002674,"Giver for lidt mælk i stor latte ( tjek alle mælkedrikke )
@@ -549,9 +579,18 @@ Skift kontraventil i renseblok samt “ketcher” i skylle og udlev. ventil.
 Mælk løber ud i spildbakken.  Giver for lidt mælk i stor latte ( tjek alle mælkedrikke )
 Skift kontraventil i renseblok samt “ketcher” i skylle og udlev. ventil.
 Mælk løber ud i spildbakken. ","['130302294', '130302197', '130302194']","[2.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P RS,Nedbrud
+WO002677,"Stadig problemer med mælken
+Maskinen står i nr. 29.  Stadig problemer med mælken
+Maskinen står i nr. 29.  Stadig problemer med mælken
+Maskinen står i nr. 29.  Stadig problemer med mælken
+Maskinen står i nr. 29.  Stadig problemer med mælken
+Maskinen står i nr. 29.  Stadig problemer med mælken
+Maskinen står i nr. 29.  Stadig problemer med mælken
+Maskinen står i nr. 29. ","['132000000', '130301250', '130301535', '130301715', '130301922', '130301338', '130301308']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO002678,Utæt over bag ved maskinen Utæt over bag ved maskinen Utæt over bag ved maskinen,"['130302193', '130302194', '130302313']","[2.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO002683,Vandet fosser ud af maskinen ved rengøring Vandet fosser ud af maskinen ved rengøring Vandet fosser ud af maskinen ved rengøring,"['132000000', '130302197', '130302294']","[1.0, 1.0, 2.0]",Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
 WO002687,"Mail fra CK: LAver ofte bønnefejl.  bean hopper empty, selvom den er fuld",['130301317'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
+WO002688,Fra CK: Maskine lækker vand. Fra CK: Maskine lækker vand. Fra CK: Maskine lækker vand. Fra CK: Maskine lækker vand.,"['130301443', '130301308', '130301318', '130301316']","[1.0, 1.0, 1.0, 4.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO002706,Periodiske problemer med mælk. Vil ikke give mælk eller suge mælk op.  Periodiske problemer med mælk. Vil ikke give mælk eller suge mælk op.  Periodiske problemer med mælk. Vil ikke give mælk eller suge mælk op. ,"['130302197', '130302294', '130302199']","[1.0, 3.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO002712,Mail fra CD:  Deres maskine vil ikke lave mælkedrikke. Der kommer hvid vand ud Mail fra CD:  Deres maskine vil ikke lave mælkedrikke. Der kommer hvid vand ud Mail fra CD:  Deres maskine vil ikke lave mælkedrikke. Der kommer hvid vand ud,"['130302197', '130302294', '132000000']","[1.0, 3.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2,Nedbrud
 WO002723,"Skriver ""Powder error"" Kontakt: 40438433
@@ -564,6 +603,7 @@ Skal køres på vagtudkald lørdag.
 
 Skal køres på vagtudkald lørdag. 
 ","['130301624', '130301317', '130301273']","[1.0, 1.0, 1.0]",Modul BW3 Mekanisk samtlige modeller TP OMBYT,Nedbrud
+WO002728,Vil ikke give mælk - det lyder som om den suger men der kommer ingen mælk Vil ikke give mælk - det lyder som om den suger men der kommer ingen mælk Vil ikke give mælk - det lyder som om den suger men der kommer ingen mælk Vil ikke give mælk - det lyder som om den suger men der kommer ingen mælk Vil ikke give mælk - det lyder som om den suger men der kommer ingen mælk Vil ikke give mælk - det lyder som om den suger men der kommer ingen mælk,"['130302199', '130302244', '130302282', '130302197', '130301994', '132000000']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO002745,"Mail fra CK: Maskinen bliver ved at køre i rengøring program. Nu har den kørt 4 rengøring.. hjælper ikke at slukke, eller køre det færdigt , begynder forfra ..
 Så efter 4 forsøg, har vi slukket den
 ",['130301259'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
@@ -639,6 +679,7 @@ WO003079,Komponentfejl,['130302385'],[1.0],Thermoplan Kaffemaskine BW4c CTM2,Ned
 WO003082,"Efter service for et par uger siden, beder maskinen om bønner, selv om der er bønner på maskinen. Efter service for et par uger siden, beder maskinen om bønner, selv om der er bønner på maskinen.","['130301624', '130301280']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO003087,"Maskine larmer efter bryg. Lyder som 2 metaldele, der går mod hinanden. Måske den skal smøres. Maskine larmer efter bryg. Lyder som 2 metaldele, der går mod hinanden. Måske den skal smøres.","['130301317', '130301624']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBT2,Nedbrud
 WO003090,"Giver ingen mælk, når de vælger Café Latte. Giver ingen mælk, når de vælger Café Latte. Giver ingen mælk, når de vælger Café Latte.","['130301535', '132000000', '130301923']","[3.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
+WO003121,Suger kun lidt mælk op på mælkedrikke Suger kun lidt mælk op på mælkedrikke Suger kun lidt mælk op på mælkedrikke Suger kun lidt mælk op på mælkedrikke Suger kun lidt mælk op på mælkedrikke Suger kun lidt mælk op på mælkedrikke Suger kun lidt mælk op på mælkedrikke Suger kun lidt mælk op på mælkedrikke Suger kun lidt mælk op på mælkedrikke,"['130301492', '130301338', '130301806', '130301715', '130301318', '130302366', '130302066', '130301563', '130301922']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO003124,"Han tror, der er noget skævt ved udløbshovedet. Når de laver en drik, løber det skævt ud.",['130301686'],[1.0],Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO003156,Sagde lige pludselig puf og så ville den ikke suge mælk op,['131000009R'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO003163,De sidste 2 mdr. har de haft lidt problemer med renseprogrammet. bliver ved med at bede om at få sat tabs i på rød nøgle,['130302385'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
@@ -703,6 +744,7 @@ WO003560,Står i Naust. Indstilles som maskinen ved siden af. Svinger i styrke p
 WO003573,Der kommer vand i mælken. Der kommer vand i mælken.,"['130301773', '130301923']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO003575,Melder flow error,['131000009R'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO003588,"Mail fra Kontra: kører fast i produkter med mælk ind i mellem, men ikke altid",['130301129'],[1.0],Thermoplan Kaffemaskine BW4c CTM2,Nedbrud
+WO003597,"LAver kun halve kopper, efter de har kørt rens. LAver kun halve kopper, efter de har kørt rens. LAver kun halve kopper, efter de har kørt rens. LAver kun halve kopper, efter de har kørt rens. LAver kun halve kopper, efter de har kørt rens. LAver kun halve kopper, efter de har kørt rens. LAver kun halve kopper, efter de har kørt rens. LAver kun halve kopper, efter de har kørt rens.","['130301535', '130301874', '130301492', '130301338', '132000000', '130301715', '130302366', '130301563']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO003603,GIver ingen mælk GIver ingen mælk GIver ingen mælk,"['X130302082', '130301806', '132000000']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO003606,"Skal have ny rensenøgle til mælk. Er knækket, fordi de sidder rigtig godt fast. Pakning bliver også løs på blå nøgle. Kenneth vil gerne have udleveret et par pakninger, så han selv kan skifte dem hvis det er. Skal have ny rensenøgle til mælk. Er knækket, fordi de sidder rigtig godt fast. Pakning bliver også løs på blå nøgle. Kenneth vil gerne have udleveret et par pakninger, så han selv kan skifte dem hvis det er.","['130301963', '130302031']","[2.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO003619,Melder Flow error. Melder Flow error. Melder Flow error.,"['130305536', '130301535', '102128']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
@@ -745,6 +787,7 @@ Bean hopper empty
  Mail fra kontra: nogle gange sætter bønnerne sig fast og kommer ikke ned i kværnen
 Bean hopper empty
 ","['131000007R', '130500006']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
+WO003822,Mail fra CK: Kaffen er meget tynd.  Mail fra CK: Kaffen er meget tynd.  Mail fra CK: Kaffen er meget tynd.  Mail fra CK: Kaffen er meget tynd.  Mail fra CK: Kaffen er meget tynd.  Mail fra CK: Kaffen er meget tynd. ,"['130301317', '130301535', '130301127', '130301773', '130301128', '130301892']","[1.0, 3.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO003826,Maskinen melder fejl under rengøring og derefter vandflow fejl. Maskinen melder fejl under rengøring og derefter vandflow fejl. Maskinen melder fejl under rengøring og derefter vandflow fejl.,"['130302263', '132000000', '130302268']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO003833,Vil ikke lave americano. Mange bobler i crema,['130301523'],[1.0],Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO003834,Bliver ved at bede om rens.  Bliver ved at bede om rens.  Bliver ved at bede om rens. ,"['130301128', '130301535', '132000000']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
@@ -889,6 +932,7 @@ WO004320,"Fejl ved rengøring - maskinen meddeler at den blev afbrudt under reng
 WO004325,JR: Utæt JR: Utæt,"['130301860', '130301811']","[1.0, 1.0]",Te og Steam BW3 TS 400 V,Nedbrud
 WO004334,Vil ikke give mælk.  Vil ikke give mælk. ,"['130301922', '132000000']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO004386,"Problemer med kakao. De tror, der er en kaffebønne i, men de kan ikke få den ud.",['130302380'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
+WO004395,Vil ikke trække mælk op Vil ikke trække mælk op Vil ikke trække mælk op Vil ikke trække mælk op,"['130302197', '130302294', '130302282', '132000000']","[1.0, 4.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2,Nedbrud
 WO004399,"Giver kun lidt kaffe, kommer kun fra den ene studs.",['130302295'],[2.0],Thermoplan Kaffemaskine BW4c CTM2 P RS,Nedbrud
 WO004405,"Hej Niels,
  
@@ -917,6 +961,7 @@ WO004474,Mail fra Dalux: Vores kaffemaskine vil ikke pågynde rengøringsprogram
 WO004475,we need a service cause we have problems with the milk foam and the filling quantities. we need a service cause we have problems with the milk foam and the filling quantities. we need a service cause we have problems with the milk foam and the filling quantities. we need a service cause we have problems with the milk foam and the filling quantities. we need a service cause we have problems with the milk foam and the filling quantities.,"['130301563', '130302366', '130301806', '132000000', '130301922']","[1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO004486,Giver ingen mælk Giver ingen mælk,"['130301893', '130301806']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO004502,Den ene maskine melder fejl og drypper meget langsomt ved americano,['130301523'],[1.0],Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
+WO004504,Maskinen laver halve kopper på Latte. Maskinen laver halve kopper på Latte. Maskinen laver halve kopper på Latte. Maskinen laver halve kopper på Latte. Maskinen laver halve kopper på Latte. Maskinen laver halve kopper på Latte. Maskinen laver halve kopper på Latte. Maskinen laver halve kopper på Latte.,"['130301492', '130301338', '132000000', '130301715', '130301922', '130301535', '130302366', '130301443']","[1.0, 1.0, 1.0, 1.0, 1.0, 4.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO004507,Maskinen vil ikke lave mælkedrikke. Maskinen vil ikke lave mælkedrikke.,"['130302194', '130301129']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2,Nedbrud
 WO004511,Der løber vand ud inde under maskinen.,['130500006'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO004515,Melder vand flowfejl  og stopper i rens,['131000011R'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
@@ -1150,6 +1195,7 @@ WO005836,Noget er knækket af på den røde rensenøgle,['130302422'],[1.0],Ther
 WO005838,"Beder om rinse, men når de starter det, lækker den vand. Beder om rinse, men når de starter det, lækker den vand. Beder om rinse, men når de starter det, lækker den vand.","['130301522', '102128', '130301535']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO005840,Giver ikke mælk. Giver ikke mælk.,"['132000000', '130301923']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO005848,Maskine flyder over i kakao.,['130302291'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P RS,Nedbrud
+WO005852,melder flowfejl når de tager en kop kaffe - kører uden problemer ved manuel skyl. melder flowfejl når de tager en kop kaffe - kører uden problemer ved manuel skyl. melder flowfejl når de tager en kop kaffe - kører uden problemer ved manuel skyl. melder flowfejl når de tager en kop kaffe - kører uden problemer ved manuel skyl. melder flowfejl når de tager en kop kaffe - kører uden problemer ved manuel skyl. melder flowfejl når de tager en kop kaffe - kører uden problemer ved manuel skyl. melder flowfejl når de tager en kop kaffe - kører uden problemer ved manuel skyl.,"['130302294', '130302269', '130302244', '130302295', '130302197', '130302200', '130302201']","[2.0, 1.0, 1.0, 2.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
 WO005859,"Der løber vand ud under maskinen, under en af slangerne.",['130304345'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO005869,"Den laver larm, når den skal kværne, og nogle gange melder den, at der ikke er bønner på. Den laver larm, når den skal kværne, og nogle gange melder den, at der ikke er bønner på.","['130301892', '130301318']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO005883,Siger en knirkelyd når den skal kværne,['130301624'],[1.0],Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
@@ -1184,6 +1230,7 @@ WO006132,Den vil ikke give mælk. Den vil ikke give mælk. Den vil ikke give mæ
 WO006134,Flowerror skete i weekenden Flowerror skete i weekenden Flowerror skete i weekenden,"['132000000', '130301535', '130301715']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO006135,Giver ikke skum. Ventil klikker ikke Giver ikke skum. Ventil klikker ikke,"['130302388', '132000000']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
 WO006138,"Kværn vil ikke køre. Den melder ingen bønner, selv om der er bønner på. Kværn vil ikke køre. Den melder ingen bønner, selv om der er bønner på. Kværn vil ikke køre. Den melder ingen bønner, selv om der er bønner på. Kværn vil ikke køre. Den melder ingen bønner, selv om der er bønner på.","['130301308', '130301624', '130301892', '130301318']","[2.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
+WO006139,Maskine smider vand under sig.  Maskine smider vand under sig.  Maskine smider vand under sig.  Maskine smider vand under sig. ,"['130301917', '130301453', '130301316', '130301145']","[1.0, 1.0, 2.0, 2.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO006144,Vil ikke reg. mælken. Vil ikke reg. mælken.,"['130302194', '130302199']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO006147,Kan ikke registrere rensepillerne,['130302070'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO006152,Der løber vand ud under maskinen.,['130302194'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
@@ -1204,13 +1251,16 @@ I Starbucks er det mælkesteameren.
 ","['130301922', '130301277']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO006251,Fra mail: Der kommer ik mælk med. Fra mail: Der kommer ik mælk med.,"['132000000', '130301715']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO006275,LAver for meget foam ved latte. LAver for meget foam ved latte.,"['130301127', '130301128']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
+WO006286,Fra mail: Kaffemaskine trækker ikke mælk ind. Fra mail: Kaffemaskine trækker ikke mælk ind. Fra mail: Kaffemaskine trækker ikke mælk ind. Fra mail: Kaffemaskine trækker ikke mælk ind. Fra mail: Kaffemaskine trækker ikke mælk ind. Fra mail: Kaffemaskine trækker ikke mælk ind. Fra mail: Kaffemaskine trækker ikke mælk ind. Fra mail: Kaffemaskine trækker ikke mælk ind.,"['130301492', '130301845', '115906', '130302366', '130301874', '130302066', '130302088', '130301773']","[1.0, 1.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO006295,Vil ikke registrere mælk.,['130301845'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO006301,"Fra mail: Leverer ikke nok mælk til, kaffeprodukter med mælk i…",['130301715'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO006303,"Maskinen melder: Rengøring afbrudt, selv den lige er rengjort. Maskinen melder: Rengøring afbrudt, selv den lige er rengjort.","['130301806', '130301259']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO006319,"Kakao er tynd, og den skummer ikke Latte ordentligt.",['132000000'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO006324,"Larmer når den er færdig med en kop - Udløbshoved er væk, ved ikke om det kan gøre at den larmer sådan?",['131000007R'],[1.0],Thermoplan Kaffemaskine BW3 CBT2,Nedbrud
+WO006331,Maskine giver kun mælk og kaffe periodisk Maskine giver kun mælk og kaffe periodisk Maskine giver kun mælk og kaffe periodisk Maskine giver kun mælk og kaffe periodisk Maskine giver kun mælk og kaffe periodisk Maskine giver kun mælk og kaffe periodisk,"['130301563', '130301715', '130302366', '115906', '130301922', '130302066']","[1.0, 1.0, 1.0, 2.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO006332,"Melder der ikke er bønner i espressosiden, men det er der. Melder der ikke er bønner i espressosiden, men det er der.","['130301767', '131000007R']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBT2,Nedbrud
 WO006344,Løber fast 10 sek. på enkelt og dbl. shot uanset hvad de indstiller løbetiden til + nogle gange sort skærm.,['130301892'],[1.0],Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
+WO006357,Manglende foam Manglende foam Manglende foam Manglende foam Manglende foam Manglende foam,"['130302205', '130302193', '130302194', '130301127', '130301453', '130302294']","[1.0, 2.0, 1.0, 1.0, 1.0, 4.0]",Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
 WO006362,Besk i smagen - vandet løber langsomt ud. Besk i smagen - vandet løber langsomt ud.,"['130301715', '132000000']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO006365,Mælken skummer for meget.,['130302291'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P TC,Nedbrud
 WO006366,Utæt ved pakning.,['130305160'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
@@ -1233,6 +1283,8 @@ Medbring 116946 og 118093 ( KAR)","['130301845', '130301729']","[1.0, 1.0]",Køl
 WO006477,drypper inde under maskinen. drypper inde under maskinen.,"['130302194', '130302193']","[1.0, 2.0]",Thermoplan Kaffemaskine BW4c CTM2,Nedbrud
 WO006481,Problem med mælk. Kommer intet mælk ud.  Problem med mælk. Kommer intet mælk ud. ,"['130302194', '132000000']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO006499,Vil ikke suge mælk op,['130301893'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
+WO006513,"Drypper med mælk, når de vælger f.eks. Latte. Drypper med mælk, når de vælger f.eks. Latte. Drypper med mælk, når de vælger f.eks. Latte. Drypper med mælk, når de vælger f.eks. Latte. Drypper med mælk, når de vælger f.eks. Latte. Drypper med mælk, når de vælger f.eks. Latte. Drypper med mælk, når de vælger f.eks. Latte. Drypper med mælk, når de vælger f.eks. Latte.","['130301317', '130301624', '132000000', '130301923', '130301923', '130301892', '130301535', '130301318']","[1.0, 1.0, 1.0, 1, 1.0, 1.0, 2.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
+WO006516,Fra mail: One of our machines (no. 134545) doesn’t make milk foam. We have to turn it off now. Could you please help us? Fra mail: One of our machines (no. 134545) doesn’t make milk foam. We have to turn it off now. Could you please help us? Fra mail: One of our machines (no. 134545) doesn’t make milk foam. We have to turn it off now. Could you please help us? Fra mail: One of our machines (no. 134545) doesn’t make milk foam. We have to turn it off now. Could you please help us? Fra mail: One of our machines (no. 134545) doesn’t make milk foam. We have to turn it off now. Could you please help us? Fra mail: One of our machines (no. 134545) doesn’t make milk foam. We have to turn it off now. Could you please help us? Fra mail: One of our machines (no. 134545) doesn’t make milk foam. We have to turn it off now. Could you please help us?,"['130301535', '130301318', '130301892', '130301308', '130301901', '130301922', '130301317']","[2.0, 1.0, 1.0, 2.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO006517,"Skærmen er helt sort, de kan dog godt trykke på skærmen, hvor den reagere. Skærmen er helt sort, de kan dog godt trykke på skærmen, hvor den reagere.","['130302273', '130302272']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO006518,"Laver mærkelig lyd, når man trækker kakao, og der kommer kun mælk og vand ud.",['130301893'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO006527,"Latte laver kun kvarte kopper periodisk på hver 3-4 kop.
@@ -1246,6 +1298,7 @@ WO006598,"Ved næsten hver kop de tager, siger den heating up - ikoner forsvinde
 WO006619,Der løber vand ud af maskinen. Der løber vand ud af maskinen.,"['130302253', '130302194']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 TC,Nedbrud
 WO006637,Melder flow error under rens - gør det i slutningen af programmet. Melder flow error under rens - gør det i slutningen af programmet.,"['130302269', '130302268']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P RS,Nedbrud
 WO006648,Melder bønnebeholdere Tom Melder bønnebeholdere Tom,"['130301624', '130301317']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
+WO006649,Maskine lækker vand. Maskine lækker vand. Maskine lækker vand. Maskine lækker vand. Maskine lækker vand. Maskine lækker vand.,"['130302197', '130302173', '130302193', '130302294', '130302194', '132000000']","[1.0, 1.0, 2.0, 4.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
 WO006654,"Melder Milk low, selv om der er mælk på. Melder Milk low, selv om der er mælk på.","['130301901', '130301535']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO006666,Renseprogram er svært at starte.,['130301719'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO006670,Mail fra CK: : Der kommer ikke nok mælkeskum i,['130301715'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
@@ -1254,6 +1307,27 @@ WO006685,Lækker vand ud forneden.,['130301327'],[2.0],Thermoplan Kaffemaskine B
 WO006687,"Siger der ikke er bønner på, selv om der er. Og den lyder mærkeligt, når den forsøger at kværne.",['130302045'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO006689,Den vil ikke give mælk. Den vil ikke give mælk. Den vil ikke give mælk.,"['132000000', '130301923', '130302346']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO006696,Forstoppelse i maskinen. Kunde mistænker kaffebønne i kakao. ,['130302291'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
+WO006720,"Hello,
+ 
+we’ve got a little problem with our left Starbucks machine.
+there is leaking water out of from under the machine.
+we shut it down for now because it has flood the whole place here (slowly but overnight everything was full of water!)
+ Hello,
+ 
+we’ve got a little problem with our left Starbucks machine.
+there is leaking water out of from under the machine.
+we shut it down for now because it has flood the whole place here (slowly but overnight everything was full of water!)
+ Hello,
+ 
+we’ve got a little problem with our left Starbucks machine.
+there is leaking water out of from under the machine.
+we shut it down for now because it has flood the whole place here (slowly but overnight everything was full of water!)
+ Hello,
+ 
+we’ve got a little problem with our left Starbucks machine.
+there is leaking water out of from under the machine.
+we shut it down for now because it has flood the whole place here (slowly but overnight everything was full of water!)
+","['130301563', '130301058', '130301922', '130302366']","[1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO006727,lidt utæt lidt utæt,"['130301704', '130301686']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO006745,kan ikke lave shots kan ikke lave shots kan ikke lave shots,"['130305536', '130301522', '130301535']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO006766,Giver ingen mælk og kan ikke køre rens Giver ingen mælk og kan ikke køre rens Giver ingen mælk og kan ikke køre rens Giver ingen mælk og kan ikke køre rens Giver ingen mælk og kan ikke køre rens,"['132000000', '130301806', '130302025', '130301773', '130301715']","[1.0, 1.0, 1.0, 2.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
@@ -1384,6 +1458,7 @@ WO007274,Steamer virker ikke,['130301860'],[1.0],Thermoplan Kaffemaskine BW3 CTS
 WO007289,Laver ikke rigtig størrelse drikke (mælk),['130301715'],[1.0],Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO007292,Drypper kraftigt,['130302194'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P RS TC,Nedbrud
 WO007296,Der løber vand nedenud af maskinen. Der løber vand nedenud af maskinen. Der løber vand nedenud af maskinen.,"['130302194', '130302173', '130302205']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
+WO007297,Fylder for lidt i kopperne Fylder for lidt i kopperne Fylder for lidt i kopperne Fylder for lidt i kopperne Fylder for lidt i kopperne Fylder for lidt i kopperne,"['130301127', '130301892', '130301318', '130301806', '130301806', '130301922']","[1.0, 1.0, 1.0, 1.0, 1, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO007301,Problemer med foam.,['132000000'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
 WO007303,Giver ikke ret meget mælk. Giver ikke ret meget mælk.,"['130301715', '130301535']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO007306,"Ring gerne til Rikke 26179593 vedr. fejl. 
@@ -1512,6 +1587,13 @@ Bemærkninger til servicelinje:
 Den drypper under maskinen.
 
 ",['130301379'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
+WO007925,"Mail:
+Fylder ikke koppen nok op med mælke varianterne. Derudover er den heller ikke så varm Mail:
+Fylder ikke koppen nok op med mælke varianterne. Derudover er den heller ikke så varm Mail:
+Fylder ikke koppen nok op med mælke varianterne. Derudover er den heller ikke så varm Mail:
+Fylder ikke koppen nok op med mælke varianterne. Derudover er den heller ikke så varm Mail:
+Fylder ikke koppen nok op med mælke varianterne. Derudover er den heller ikke så varm Mail:
+Fylder ikke koppen nok op med mælke varianterne. Derudover er den heller ikke så varm","['130301128', '130301127', '130301773', '130301715', '130305531', '130301535']","[1.0, 1.0, 1.0, 1.0, 1.0, 3.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO007927,"Mail:
 Vi har haft en lille uheld ved kaffemaskine 1 thermoplan, slangen til klakfilteret er røget af, kan vi få Torpen til at ordne det ?
 
@@ -1533,6 +1615,7 @@ WO007997,Piston error,['130301361'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbr
 WO008004,Fra mail: Maskinen skriver powder error flere gange om dagen både på alm. og kaffelatte i alle str. Fra mail: Maskinen skriver powder error flere gange om dagen både på alm. og kaffelatte i alle str.,"['130301624', '130301280']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO008013,Skift af steammodul,['131000003R'],[1.0],Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO008015,Larmer Larmer Larmer Larmer,"['130301317', '130301892', '130301624', '130301318']","[1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
+WO008024,"Meldte komponentfejl i går. Nu bliver den ved med at bede om rengøring. De har kørt rengøring i går aftes og igen to gange i dag, men den beder fortsat om rengøring. Meldte komponentfejl i går. Nu bliver den ved med at bede om rengøring. De har kørt rengøring i går aftes og igen to gange i dag, men den beder fortsat om rengøring. Meldte komponentfejl i går. Nu bliver den ved med at bede om rengøring. De har kørt rengøring i går aftes og igen to gange i dag, men den beder fortsat om rengøring. Meldte komponentfejl i går. Nu bliver den ved med at bede om rengøring. De har kørt rengøring i går aftes og igen to gange i dag, men den beder fortsat om rengøring. Meldte komponentfejl i går. Nu bliver den ved med at bede om rengøring. De har kørt rengøring i går aftes og igen to gange i dag, men den beder fortsat om rengøring. Meldte komponentfejl i går. Nu bliver den ved med at bede om rengøring. De har kørt rengøring i går aftes og igen to gange i dag, men den beder fortsat om rengøring. Meldte komponentfejl i går. Nu bliver den ved med at bede om rengøring. De har kørt rengøring i går aftes og igen to gange i dag, men den beder fortsat om rengøring. Meldte komponentfejl i går. Nu bliver den ved med at bede om rengøring. De har kørt rengøring i går aftes og igen to gange i dag, men den beder fortsat om rengøring.","['130302200', '130302244', '132000000', '130302268', '130302199', '130302269', '131000011R', '130302263']","[2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO008029,"Brygger ikke automatisk i karret, de skal trykke for at sætte det i gang + maskinen beder om assistance 1-2 gange om dagen, men når de trykker på nøglen, så er der ingen fejl.",['130301975'],[1.0],Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO008032,Manglende foam Manglende foam,"['130301127', '130302197']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 RS TC,Nedbrud
 WO008035,Rød rensenøgle sidder løs når de skal prøve at køre rens.,['130301369'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
@@ -1564,10 +1647,12 @@ WO008131,Løber meget langsom ved udlevering og fylder ikke Americano helt op.,[
 WO008133,"Lækker vand + melder at mælken er for varm, selv om den kommer fra køleskab.",['130301327'],[2.0],Thermoplan Kaffemaskine BW4c CTM2 TC,Nedbrud
 WO008142,Fryser mælken til ,['130302425'],[1.0],Køleskab BW3,Nedbrud
 WO008145,LN: Melder water level error når det er Americano når den trækker det kogende vand.,['130305536'],[1.0],Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
+WO008149,Vil ikke suge mælk op Vil ikke suge mælk op Vil ikke suge mælk op Vil ikke suge mælk op Vil ikke suge mælk op Vil ikke suge mælk op,"['130301127', '130301128', '132000000', '130301715', 'X130302082', '130301535']","[1.0, 1.0, 1.0, 1.0, 1.0, 4.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO008152,Giver ingen mælk Giver ingen mælk Giver ingen mælk,"['130302194', '130301129', '130301127']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P RS,Nedbrud
 WO008272,"knækket lille tap, som skal mærke at der er puttet tablet i til rens på Rød rensenøgle.
 
 OBS! Deres servicehæfte er fyldt, og Nikolaj vil gerne have at vi efterlader et nyt, ",['130302422'],[1.0],Thermoplan Kaffemaskine BW4c CTM2,Nedbrud
+WO008301,Giver for lidt på mælkedrikke - Cappuccino mangler foam. Giver for lidt på mælkedrikke - Cappuccino mangler foam. Giver for lidt på mælkedrikke - Cappuccino mangler foam. Giver for lidt på mælkedrikke - Cappuccino mangler foam. Giver for lidt på mælkedrikke - Cappuccino mangler foam. Giver for lidt på mælkedrikke - Cappuccino mangler foam. Giver for lidt på mælkedrikke - Cappuccino mangler foam. Giver for lidt på mælkedrikke - Cappuccino mangler foam. Giver for lidt på mælkedrikke - Cappuccino mangler foam. Giver for lidt på mælkedrikke - Cappuccino mangler foam.,"['130301773', '130301535', '130301318', '130301715', '130301638', '130301492', '130301563', '130301917', '130301922', '130302366']","[1.0, 2.0, 1.0, 1.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO008320,Doserer for lidt i mælkedrikke Doserer for lidt i mælkedrikke Doserer for lidt i mælkedrikke,"['130301922', '130301127', '130301715']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO008338,"Vand i grumsekuffen. Maler nogle gange for lidt bønner, så kaffen bliver tynd.   Vand i grumsekuffen. Maler nogle gange for lidt bønner, så kaffen bliver tynd.  ","['130301892', '132000000']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
 WO008346,Denne arbejdsordre er at isætte steam som skulle have været skiftet ved sidste 100k service.,['131000003R'],[1.0],Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
@@ -1726,6 +1811,25 @@ WO009065,Mail fra CK: lågen til det lille køle skab med mælk vil ikke slutte 
 WO009066,"Den blå rensenøgle sidder løs under rens og lægger en del vand.
 2/12 KAR: der skal nok ny komp.rensenøgle på p.gra. frostsprængning.",['130302070'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO009072,maskine lækker vand maskine lækker vand,"['130301530', '130301686']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
+WO009074,"Vil ikke foame ordentlig.
+
+Mail til færgen: Supervisor.FSCPH@scandlines.com
+ Vil ikke foame ordentlig.
+
+Mail til færgen: Supervisor.FSCPH@scandlines.com
+ Vil ikke foame ordentlig.
+
+Mail til færgen: Supervisor.FSCPH@scandlines.com
+ Vil ikke foame ordentlig.
+
+Mail til færgen: Supervisor.FSCPH@scandlines.com
+ Vil ikke foame ordentlig.
+
+Mail til færgen: Supervisor.FSCPH@scandlines.com
+ Vil ikke foame ordentlig.
+
+Mail til færgen: Supervisor.FSCPH@scandlines.com
+","['130302366', '130301563', '130301922', '130301329', '130301715', '115906']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO009083,Melder flow error Melder flow error Melder flow error Melder flow error Melder flow error,"['130302269', '130302251', '130301327', '130302294', '130302201']","[1.0, 2.0, 2.0, 3.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2,Nedbrud
 WO009086,Manglende foam Manglende foam Manglende foam,"['130302366', '130301563', '130302197']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO009105,Maskinen er utæt bagtil.,['130302291'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P TC,Nedbrud
@@ -1780,6 +1884,8 @@ WO009350,"Mail fra CK: Nyt køleskab til kaffemaskinen er ankommet, så det skal
 WO009351,Lægger vand inde bag grumseskuffen. Lægger vand inde bag grumseskuffen.,"['130302227', '130305539']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO009364,"Maskinen siger, der ikke er mælk på, men det er der.",['130301845'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO009375,"som om den blander vand i mælken, når den skal udlevere.",['130302194'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
+WO009380,Melder flowerror Melder flowerror Melder flowerror,"['130301867', '130301931', '130302102']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
+WO009381,melder flowerror melder flowerror melder flowerror melder flowerror melder flowerror melder flowerror melder flowerror,"['130302294', '130302197', '130301563', '130301058', '130302200', '130302366', '130302403']","[4.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO009382,"Giver ingen mælk til mælkedrikke.Ringet ind lørdag'
 Lovet det bliver mandag eller tirsdag",['130301128'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO009386,"Smider vand ud i bunden, og melder tit fejl på bryggeren",['130301280'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
@@ -1795,6 +1901,7 @@ WO009474,"Lægger lidt vand inde i maskinen - kan ikke se, hvor det kommer fra."
 WO009476,"Når den skal brygge kommer den med mærkelige lyde.
 Giver ikke nok i koppen (kunne ikke uddybe hvilke kopper)",['130302125'],[1.0],Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO009498,Fra mail: Maskinen lækker vand og springer sikringerne.,['130302194'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P RS,Nedbrud
+WO009504,Melder tom bønnebeholder. Dog er begge beholdere fyldte Melder tom bønnebeholder. Dog er begge beholdere fyldte Melder tom bønnebeholder. Dog er begge beholdere fyldte Melder tom bønnebeholder. Dog er begge beholdere fyldte Melder tom bønnebeholder. Dog er begge beholdere fyldte Melder tom bønnebeholder. Dog er begge beholdere fyldte,"['130301308', '130301308', '130301624', '130301892', '130301318', '130301317']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
 WO009511,Mail fra CK: REKLAMATION: Havde en servicemand ude og kigge på mælkeskum igår men det virker stadig ikke Mail fra CK: REKLAMATION: Havde en servicemand ude og kigge på mælkeskum igår men det virker stadig ikke,"['132000000', 'X130302082']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO009513,Er utæt med mælk Er utæt med mælk,"['130301923', '132000000']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO009524,"Fra mail: Når maskinen skal til og male kaffe går den i stå. Fejlen opstår 4-5 gange i døgnet. Der er bønner nok i beholderen. Bentax skal derfor forbi asap.
@@ -1822,6 +1929,7 @@ WO009641,Power error ,['130301280'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbr
 WO009644,CD: Drypper med noget vand på bordet.,['130301773'],[1.0],Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
 WO009650,"Problemer med kakao. Hun talte med AFM om det, da han var hos dem den 8/12, og han sagde noget om, at en motor skal skiftes.",['130302291'],[1.0],Thermoplan Kaffemaskine BW4 CTM2 PF 2M TC extern grums,Nedbrud
 WO009651,Vil ikke give mælk på kakaoen - de andre mælkedrikke kører fint Vil ikke give mælk på kakaoen - de andre mælkedrikke kører fint,"['130301129', '130302194']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
+WO009654,Problemer med dosering af mælk. kommer for lidt i. Problemer med dosering af mælk. kommer for lidt i. Problemer med dosering af mælk. kommer for lidt i. Problemer med dosering af mælk. kommer for lidt i. Problemer med dosering af mælk. kommer for lidt i. Problemer med dosering af mælk. kommer for lidt i.,"['130302197', '130302194', '130302294', '130302173', '130302199', '132000000']","[1.0, 1.0, 3.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P RS,Nedbrud
 WO009656,"Hej
  
 Jeg har en Starbucks maskine, hvor der er en defekt i mælkerenseren. Se vedlagte billeder. Vi vil gerne have i kommer forbi og udskifter delen.
@@ -1854,6 +1962,7 @@ WO009689,Flowerror Flowerror,"['132000000', '130301530']","[1.0, 1.0]",Thermopla
 WO009692,Lækker vand under rengøring.,['130302194'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO009699,"De oplever fejl periodisk, hvor den ikke vil give mælk, eller ikke vil give kaffe. I lørdags under rens skulle skuffen tages ud igen, og derefter bad den om rens igen.",['130302385'],[1.0],Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
 WO009703,Vil ikke udlevere mælkedrikke. Vil ikke udlevere mælkedrikke. Vil ikke udlevere mælkedrikke.,"['130301715', '130301922', '130301127']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
+WO009706,Fra mail: Laver halve kopper. Fra mail: Laver halve kopper. Fra mail: Laver halve kopper. Fra mail: Laver halve kopper. Fra mail: Laver halve kopper. Fra mail: Laver halve kopper. Fra mail: Laver halve kopper.,"['130301715', '130301892', '130305531', '130301535', '130301318', '130301127', '130301923']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO009707,"Kakaotragt stopper til, og de kan ikke få det skilt ad.",['130302291'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO009731,Giver ingen mælk,['130302313'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO009735,"Når de trykker på shots, så løber der vand ud inden shottet kommer ud.",['130301523'],[1.0],Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
@@ -1975,6 +2084,7 @@ WO010356,Maskinen TH. - Espressoshots giver for lidt Maskinen TH. - Espressoshot
 WO010358,Vil ikke give mælk - de kan se det kommer op i slangen og så sker der ikke mere.,['130301137'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO010360,Køl fryser mælken,['130301752'],[1.0],Køleskab BW3,Nedbrud
 WO010364,Halve kopper med mælk. Halve kopper med mælk. Halve kopper med mælk.,"['130301715', '130301127', '130301535']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
+WO010383,Laver halve kopper på drikke med mælk + den er meget langsom Laver halve kopper på drikke med mælk + den er meget langsom Laver halve kopper på drikke med mælk + den er meget langsom Laver halve kopper på drikke med mælk + den er meget langsom Laver halve kopper på drikke med mælk + den er meget langsom Laver halve kopper på drikke med mælk + den er meget langsom,"['130302197', '132000000', '130302294', '130302244', '130302244', '130302194']","[1.0, 1.0, 4.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P TC,Nedbrud
 WO010398,Maskinen lækker vand.,['130302194'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 RS TC,Nedbrud
 WO010415,"Fylder ikke mælkedrikke nok op i koppen.
 Alm. kaffe fyldes heller ikke helt op, men det er på mælken, det er værst.  Fylder ikke mælkedrikke nok op i koppen.
@@ -2009,6 +2119,7 @@ WO010579,melder Milk low,['130301901'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Ne
 WO010580,"Går i stå i renseprogram, step 2.",['130301638'],[2.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO010583,"med kaffegrums, og den giver waterflow error. Der kommer stadigvæk også lidt vand ud under maskinen. med kaffegrums, og den giver waterflow error. Der kommer stadigvæk også lidt vand ud under maskinen.","['130302309', '130305718']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P RS TC,Nedbrud
 WO010590,"Steamer mælken for varmt, op til 70 grader.",['130301860'],[1.0],Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
+WO010609,Utæt ved drypbakke - der løber vand ud over det hele når de kører rens. Utæt ved drypbakke - der løber vand ud over det hele når de kører rens. Utæt ved drypbakke - der løber vand ud over det hele når de kører rens. Utæt ved drypbakke - der løber vand ud over det hele når de kører rens. Utæt ved drypbakke - der løber vand ud over det hele når de kører rens. Utæt ved drypbakke - der løber vand ud over det hele når de kører rens. Utæt ved drypbakke - der løber vand ud over det hele når de kører rens. Utæt ved drypbakke - der løber vand ud over det hele når de kører rens.,"['130302251', '130302199', '130302025', '130302268', '132000000', '130302244', '130302263', '130302313']","[2.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO010610,"Melder fejl på boiler. 
 Vil gerne have repareret autosteam. 
 Skiftet ntc føler, renset i steam indgang for vand
@@ -2057,6 +2168,7 @@ WO010848,"Når maskinen skal renses beder den om tabs.
 Når de så sættes i, beder den om at man tager dem ud igen.
 Denne ' dans' gentages et utal af gange, ind til at maskinen til sidst accepterer dem. ",['130301259'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO010853,"Mælken registreres ikke, og den melder samtidig køleskabet har for høj temperatur. ",['130302313'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
+WO010857,Maskinen piver i cirka 10 sek. efter at have produceret espresso. Maskinen piver i cirka 10 sek. efter at have produceret espresso. Maskinen piver i cirka 10 sek. efter at have produceret espresso. Maskinen piver i cirka 10 sek. efter at have produceret espresso. Maskinen piver i cirka 10 sek. efter at have produceret espresso. Maskinen piver i cirka 10 sek. efter at have produceret espresso.,"['130301624', '130301892', '130301535', '130301522', '130301317', '102128']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO010861,Fra mail: Kaffemaskine stopper til i cacao Problem er en genganger. Hvad kan vi gøre?,['130302291'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO010862,"Bliver ved at bede om rengøring, efter de har gjort det.  Bliver ved at bede om rengøring, efter de har gjort det. ","['130302201', '130302199']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO010868,"Fra mail:  Den laver ikke kakao, og det er sket nogle gange efterhånden også selvom vi gentagne gange har rengjort kakaodelen i maskinen.",['130302158'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
@@ -2137,6 +2249,7 @@ WO011357,"Alle drikke virker ikke, melder ingen fejl Alle drikke virker ikke, me
 WO011358,Kan ikke brygge i reservoir,['130301806'],[1.0],Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO011371,Besked fra kunde: espressomaskinen er i stykker. Ledning til steamerarm er røget af. Har selv prøvet at fikse dog uden held. ,['130301652'],[1.0],Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
 WO011372,"Mega utæt, har lukket for den ",['130301893'],[1.0],Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
+WO011373,Går i stå i nr 4. og udløb falder ned Går i stå i nr 4. og udløb falder ned Går i stå i nr 4. og udløb falder ned Går i stå i nr 4. og udløb falder ned Går i stå i nr 4. og udløb falder ned Går i stå i nr 4. og udløb falder ned Går i stå i nr 4. og udløb falder ned Går i stå i nr 4. og udløb falder ned Går i stå i nr 4. og udløb falder ned,"['130301901', '132000000', '130301931', '130302102', '130301690', 'X130302082', '130301529', '130301791', '130301715']","[1.0, 1.0, 2.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO011378,Giver kun 1/2 kopper Giver kun 1/2 kopper Giver kun 1/2 kopper,"['130301715', '132000000', '130301535']","[1.0, 1.0, 4.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO011379,Slår relæ under rens,['130301201'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO011390,"Mail fra Circle K: 
@@ -2157,6 +2270,7 @@ Thanks in advance.
 WO011398,Ingen mælk(sensor/mælkeslange),['130301901'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO011400,Periodisk fejl på kværn Periodisk fejl på kværn,"['130301317', '130301892']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO011403,"Stopper i renseprogram ved det punkt hvor displayet beder om at få tømt mælkebeholder. Når dette er gjort, kommer det grønne tjek symbol ikke frem.  Stopper i renseprogram ved det punkt hvor displayet beder om at få tømt mælkebeholder. Når dette er gjort, kommer det grønne tjek symbol ikke frem. ","['130302313', '130305966']","[1.0, 2.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
+WO011407,Vil ikke lave mælkeskum Vil ikke lave mælkeskum Vil ikke lave mælkeskum Vil ikke lave mælkeskum,"['130302199', '132000000', '130302282', '130302294']","[1.0, 1.0, 1.0, 3.0]",Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
 WO011424,Steamarm virker ikke.  Steamarm virker ikke.  Steamarm virker ikke. ,"['130301652', '131000003R', '130301643']","[2.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
 WO011425,Giver ingen mælk Giver ingen mælk,"['130302194', '130302197']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 RS TC,Nedbrud
 WO011452,Problemer med mælken Problemer med mælken Problemer med mælken Problemer med mælken,"['130301893', '130302194', '130302199', '130302244']","[1.0, 1.0, 1.0, 2.0]",Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
@@ -2179,6 +2293,7 @@ WO011570,Er ikke varm nok Er ikke varm nok Er ikke varm nok,"['130301127', '1303
 WO011586,Kunde kan ikke starte renseprogram. Den viser bare et timeglas på displayet. Kan sikkert fikses over telefonen Kunde kan ikke starte renseprogram. Den viser bare et timeglas på displayet. Kan sikkert fikses over telefonen,"['130301201', '130301361']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO011595,"Maskinen er stadig utæt, mere end før",['130301338'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO011610,Utæt under bunden,['130301327'],[2.0],Thermoplan Kaffemaskine BW4c CTM2 RS TC,Nedbrud
+WO011614,Fejl ved rens Fejl ved rens Fejl ved rens Fejl ved rens Fejl ved rens Fejl ved rens,"['130301806', '130301773', '130301715', 'X130302082', '130301773', '130302025']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO011617,Dosere ikke mælk. Giver lidt vand. Melder: Filen kunne ikke indlæses korrekt.,['132000000'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P RS TC,Nedbrud
 WO011626,"Har kørt hele renseprogram igennem, efter endt renseprogram, beder den om tabs i den røde nøgle. Anita har overvåget rens og alt er gået fint, maskinen har ikke været afbrudt. Har kørt hele renseprogram igennem, efter endt renseprogram, beder den om tabs i den røde nøgle. Anita har overvåget rens og alt er gået fint, maskinen har ikke været afbrudt.","['130301773', '130302385']","[3.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO011628,Eftersyn inden opstart Eftersyn inden opstart,"['132000000', '130301715']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
@@ -2239,6 +2354,7 @@ WO012079,"Giver ikke mælk i cappuccino
 Har kørt rengøring uden at det hjalp.
 Melder nu komponentfejl
 Der er vand på bordet.",['130302403'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
+WO012105,Melder piston error Melder piston error Melder piston error Melder piston error Melder piston error Melder piston error Melder piston error,"['130301361', '130301624', '130301892', '130301624', '130301318', '130301364', '130301317']","[1.0, 1, 1.0, 1.0, 2.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO012107,"Melder ""!"" efter rengøring. Melder ""!"" efter rengøring. Melder ""!"" efter rengøring. Melder ""!"" efter rengøring. Melder ""!"" efter rengøring.","['130302403', '130302066', '130302294', '130302197', '130302294']","[1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4 CTM2 PF 2M RL TC 380V,Nedbrud
 WO012112,Ville sætte renseprogram igang. Der løb så en masse vand ud under maskinen,['130302031'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO012122,Virker ikke. Vil ikke suge mælk og går i stå i rengøringsprogram.  Virker ikke. Vil ikke suge mælk og går i stå i rengøringsprogram. ,"['130302263', '130302227']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P RS TC,Nedbrud
@@ -2409,6 +2525,7 @@ WO012901,Maskinen står og drypper under maskinen. Maskinen står og drypper und
 WO012910,Laver tynd kaffe Laver tynd kaffe Laver tynd kaffe,"['130301175', '130301624', '130301280']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBT2,Nedbrud
 WO012912,Kan ikke lave kandebryg,['130301280'],[1.0],Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO012926,Det løber på udvendig side at udløbshovede. Der er ikke nogen der har haft det taget af. Det løber på udvendig side at udløbshovede. Der er ikke nogen der har haft det taget af.,"['130301686', '130301530']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
+WO012940,Kan ikke lave mælkedrikke. Kan ikke lave mælkedrikke. Kan ikke lave mælkedrikke. Kan ikke lave mælkedrikke. Kan ikke lave mælkedrikke. Kan ikke lave mælkedrikke.,"['130302205', '130302194', '130302269', '130302197', '130302173', '132000000']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
 WO012942,Kakao virker ikke.,['130302291'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO012972,Beder om rensetabs og indsæt skuffe - Trods dette er gjort flere gange. Beder om rensetabs og indsæt skuffe - Trods dette er gjort flere gange.,"['130301624', '130301317']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO012997,"Tager ikke mælk. Når de kører rengøringsprogram, drypper det meget under drypbakken",['130302263'],[1.0],Thermoplan Kaffemaskine BW4c CTM2,Nedbrud
@@ -2455,6 +2572,7 @@ WO013182,Kan ikke få lov til at rengøre.,['130301785'],[1.0],Thermoplan Kaffem
 WO013184,Skærmen gik ud efter rens.,['130301844'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO013185,Melder flowerror Melder flowerror,"['130301317', '130301596']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO013189,Giver ikke mælk. Giver ikke mælk. Giver ikke mælk. Giver ikke mælk.,"['132000000', '130301128', '130301773', '130301535']","[1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
+WO013192,Utæt - lækker noget der virker som om det ikke er vand Utæt - lækker noget der virker som om det ikke er vand Utæt - lækker noget der virker som om det ikke er vand Utæt - lækker noget der virker som om det ikke er vand Utæt - lækker noget der virker som om det ikke er vand Utæt - lækker noget der virker som om det ikke er vand,"['130302194', '130301563', '130302193', '130302294', '130302366', '130302197']","[1.0, 1.0, 2.0, 4.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO013210,Touchskærm virker ikke,['130302273'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO013247,"Fejl under rengøring, maskine melder: 10000008 rengøringsfejl. ",['130302403'],[2.0],Thermoplan Kaffemaskine BW4c CTM2 P RS TC,Nedbrud
 WO013250,"Går i stå ved rengøring når de sætter tabs i nøgle.
@@ -2493,6 +2611,7 @@ WO013515,Mælk er meget vandet og maskine dosere ikke korrekt mængde Mælk er m
 WO013526,"Melder vandflowfejl, både ved Americano og thevand og andre drikke.",['130302269'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO013533,Lille latte er for kold - 53 grader Lille latte er for kold - 53 grader,"['130302193', '130302194']","[1, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 TC,Nedbrud
 WO013577,Skyder dampen den forkerte vej Skyder dampen den forkerte vej,"['130301811', '130301860']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
+WO013578,"Den viste ""flow Error"" fejl da rengøringsprogrammet blev startet. Nu popper denne fejl meddelse op hver gang maskinen startes, hvilket vil sige vi ikke kan bruge kaffemaskinen Den viste ""flow Error"" fejl da rengøringsprogrammet blev startet. Nu popper denne fejl meddelse op hver gang maskinen startes, hvilket vil sige vi ikke kan bruge kaffemaskinen Den viste ""flow Error"" fejl da rengøringsprogrammet blev startet. Nu popper denne fejl meddelse op hver gang maskinen startes, hvilket vil sige vi ikke kan bruge kaffemaskinen Den viste ""flow Error"" fejl da rengøringsprogrammet blev startet. Nu popper denne fejl meddelse op hver gang maskinen startes, hvilket vil sige vi ikke kan bruge kaffemaskinen Den viste ""flow Error"" fejl da rengøringsprogrammet blev startet. Nu popper denne fejl meddelse op hver gang maskinen startes, hvilket vil sige vi ikke kan bruge kaffemaskinen Den viste ""flow Error"" fejl da rengøringsprogrammet blev startet. Nu popper denne fejl meddelse op hver gang maskinen startes, hvilket vil sige vi ikke kan bruge kaffemaskinen","['130301175', '130301529', '130302070', '132000000', '130301773', '130301806']","[1.0, 1.0, 1.0, 1.0, 3.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO013588,"Vil ikke starte op efter rens, melder fejl.",['130302385'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO013594,"Larmer i kværn
 Blinker i display
@@ -2724,6 +2843,7 @@ WO014842,Melder flowerror,['130301867'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,N
 WO014849,"Har haft lukket for vandet. Men der er vand nu. Maskine har været slukket/tændt. Kan starte renseprogram, men registrere ikke røde rensenøgle får rensetabs. Har prøvet at starte renseprogram op flere gange uden held.",['130301596'],[1.0],Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO014850,Giver ikke den rigtig mængde kaffe Giver ikke den rigtig mængde kaffe Giver ikke den rigtig mængde kaffe,"['130301715', '130301922', '130302425']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO014864,"Pakning i mælkedysse skal skiftes, da mælken sprøjter ud til alle sider. Pakning i mælkedysse skal skiftes, da mælken sprøjter ud til alle sider. Pakning i mælkedysse skal skiftes, da mælken sprøjter ud til alle sider. Pakning i mælkedysse skal skiftes, da mælken sprøjter ud til alle sider. Pakning i mælkedysse skal skiftes, da mælken sprøjter ud til alle sider.","['132000000', '130301791', '130301175', '130301806', '130301704']","[1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
+WO014868,Skummer ikke mælk og er lunken. Skummer ikke mælk og er lunken. Skummer ikke mælk og er lunken. Skummer ikke mælk og er lunken.,"['X130302082', '130301931', '130302102', '132000000']","[1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO014905,Melder flowerror ved alle drikke de har testet (eks. espresso og americano) Melder flowerror ved alle drikke de har testet (eks. espresso og americano) Melder flowerror ved alle drikke de har testet (eks. espresso og americano) Melder flowerror ved alle drikke de har testet (eks. espresso og americano) Melder flowerror ved alle drikke de har testet (eks. espresso og americano),"['130301860', '130301811', '130301535', '130301421', '131000007R']","[1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO014912,Når de køre renseprogram drypper der fra spildbakke samt en tragt ved kakao er faldet af og de kan ikke montere den selv.,['130302291'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P TC,Nedbrud
 WO014921,Maskine er utæt. den drypper under bunden.,['130302194'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
@@ -2846,6 +2966,7 @@ WO015653,Utæt kaffemaskine placeret på 1 sal. Når de laver latte løber der v
 WO015654,"Maskinen er utæt. Der løber en masse vand ind i maskinen, så den går ud. Maskinen er utæt. Der løber en masse vand ind i maskinen, så den går ud.","['130302173', '130302194']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO015656,"Maskinen til højre laver ikke ordentligt mælkeskum, kunden oplyser at de tidligere har haft problemer med mælke fedt på maskinen, men dette er fjernet. Maskinen til højre laver ikke ordentligt mælkeskum, kunden oplyser at de tidligere har haft problemer med mælke fedt på maskinen, men dette er fjernet.","['130302366', '130302294']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4 CTM2 2M TC 380V,Nedbrud
 WO015704,Kaffemaskinen siger høje lyde ifm. brygning af både mælkedrikke og alm. kaffedrikke. Kunden har slukket maskinen Kaffemaskinen siger høje lyde ifm. brygning af både mælkedrikke og alm. kaffedrikke. Kunden har slukket maskinen Kaffemaskinen siger høje lyde ifm. brygning af både mælkedrikke og alm. kaffedrikke. Kunden har slukket maskinen,"['130301535', '130301923', '130301127']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
+WO015710,"Fejlsøge på maskine, Said oplyser den ikke virker? Jf. Søren Hansen. Fejlsøge på maskine, Said oplyser den ikke virker? Jf. Søren Hansen. Fejlsøge på maskine, Said oplyser den ikke virker? Jf. Søren Hansen. Fejlsøge på maskine, Said oplyser den ikke virker? Jf. Søren Hansen.","['130301638', '130301504', '130301344', '130301624']","[3.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO015717,"Update 27/5: Mail fra kunde til Theis Øens kaffe: Vores elektriker kommer mandag den 30/5 fra morgenstunden og flytter strømmen hen til kaffemaskinens nye placering.
 Der er vand og afløb lige bag ved maskinens nye placering.
 
@@ -3037,6 +3158,7 @@ WO016543,"Giver ikke nok mælk, når de laver Kaffe Latte.
 WO016547,Slår sikringer. Der har været en elektriker forbi. Slår sikringer. Der har været en elektriker forbi. Slår sikringer. Der har været en elektriker forbi. Slår sikringer. Der har været en elektriker forbi.,"['130301453', '130305966', '130302193', '130302253']","[1.0, 2.0, 2.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P RS TC,Nedbrud
 WO016549,Maskinen drypper fra bunden ud på bordet efter vores besøg ,['130301867'],[1.0],Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO016570,"Maskinen drypper vand i skabet der står under den, kunden tror måske det er fra afløbsslangen, men kan ikke se nogle steder at den er utæt.",['130302102'],[2.0],Thermoplan Kaffemaskine BW4c CTM2 P RS TC,Nedbrud
+WO016585,"Melder: Systemfejl, sluk kaffemaskine, tænd kaffemaskine, tjek komponenter. Kommer frem igen og igen.",['130301145'],[2.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO016593,Kunden oplever fortsat problemer med maskinen. Når de kører rens skriver maskinen fjern rensetabletter og når kunden fjerner dem laver den samme fejl igen. De har tidligere haft besøg på samme fejl. ,['130302070'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO016599,"Maskinen drypper fortsat vand ud fra bunden. Derudover har kunden fået monteret en slang ved kopholderen, som de gerne vil have fjernet da de ikke kan flytte kopholderen og gøre rent. Kunden mangler rensetabs, aftalt med Kjeld at han tager nogle med der ud. Maskinen drypper fortsat vand ud fra bunden. Derudover har kunden fået monteret en slang ved kopholderen, som de gerne vil have fjernet da de ikke kan flytte kopholderen og gøre rent. Kunden mangler rensetabs, aftalt med Kjeld at han tager nogle med der ud.","['130302197', '132000000']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO016602,Melder vandflow fejl Melder vandflow fejl,"['130302201', '130302200']","[1.0, 2.0]",Thermoplan Kaffemaskine BW4c CTM2,Nedbrud
@@ -3256,6 +3378,7 @@ WO017583,"Melder pulverfejl/powder error, koble fejl og mangler bønner.
 Der er åbnet for bønnebeholdere. Fejler både ved single shot og dbshot Melder pulverfejl/powder error, koble fejl og mangler bønner.
 Der er åbnet for bønnebeholdere. Fejler både ved single shot og dbshot","['130301317', '130301624']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
 WO017590,Steamerarm utæt for oven Steamerarm utæt for oven,"['130301811', '130301860']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBT2,Nedbrud
+WO017593,mælkeslangen virker stoppet og den suger ikke mælk op  mælkeslangen virker stoppet og den suger ikke mælk op  mælkeslangen virker stoppet og den suger ikke mælk op ,"['132000000', '130302282', '130302197']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2,Nedbrud
 WO017598,Utæt Utæt,"['130301280', '130301175']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO017599,"De vil gerne have besøg i dag om muligt, da de har mange gæster.
 De kan kun køre renseprogram. De kan ikke få den til at lave kaffe.",['130302385'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
@@ -3325,9 +3448,23 @@ WO017869,"Noter venligst serie nr., den står i bar/Restaurant hul 19
 Den dosserer forkert, galt i flere uger. Noter venligst serie nr., den står i bar/Restaurant hul 19
 
 Den dosserer forkert, galt i flere uger.","['130301280', '130301791']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
+WO017895,"Kunden er informeret om i kommer sidst på dagen i dag d. 15.07.2022 som planlagt, ring til dem, hvis i ikke når det Tlf.: 4255 7197 Att: Luka
+Lægge i bunden , Der kommer ikke nok kaffe i kopperne. Kunden er informeret om i kommer sidst på dagen i dag d. 15.07.2022 som planlagt, ring til dem, hvis i ikke når det Tlf.: 4255 7197 Att: Luka
+Lægge i bunden , Der kommer ikke nok kaffe i kopperne. Kunden er informeret om i kommer sidst på dagen i dag d. 15.07.2022 som planlagt, ring til dem, hvis i ikke når det Tlf.: 4255 7197 Att: Luka
+Lægge i bunden , Der kommer ikke nok kaffe i kopperne. Kunden er informeret om i kommer sidst på dagen i dag d. 15.07.2022 som planlagt, ring til dem, hvis i ikke når det Tlf.: 4255 7197 Att: Luka
+Lægge i bunden , Der kommer ikke nok kaffe i kopperne. Kunden er informeret om i kommer sidst på dagen i dag d. 15.07.2022 som planlagt, ring til dem, hvis i ikke når det Tlf.: 4255 7197 Att: Luka
+Lægge i bunden , Der kommer ikke nok kaffe i kopperne. Kunden er informeret om i kommer sidst på dagen i dag d. 15.07.2022 som planlagt, ring til dem, hvis i ikke når det Tlf.: 4255 7197 Att: Luka
+Lægge i bunden , Der kommer ikke nok kaffe i kopperne.","['130302194', '130302244', '130301127', '130302294', '130301923', '130302193']","[1.0, 1.0, 1.0, 1.0, 1.0, 2.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO017896,"Maskinen vil ikke kører renseprogram
 Bettina 60130222",['130302070'],[1.0],Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO017899,Skærm virker ikke. Skal tages lørdag,['130301720R'],[1.0],Thermoplan Kaffemaskine BW3 CBT2,Nedbrud
+WO017912,"Maskinen melder fortsat komponent fejl efter de havde besøg i går. Derudover fejler den på rense programmet og melder at rengøring fejlede. 
+Kundens grumseskuffe er i stykker og de vil gerne have en ny (for egen regning) Maskinen melder fortsat komponent fejl efter de havde besøg i går. Derudover fejler den på rense programmet og melder at rengøring fejlede. 
+Kundens grumseskuffe er i stykker og de vil gerne have en ny (for egen regning) Maskinen melder fortsat komponent fejl efter de havde besøg i går. Derudover fejler den på rense programmet og melder at rengøring fejlede. 
+Kundens grumseskuffe er i stykker og de vil gerne have en ny (for egen regning) Maskinen melder fortsat komponent fejl efter de havde besøg i går. Derudover fejler den på rense programmet og melder at rengøring fejlede. 
+Kundens grumseskuffe er i stykker og de vil gerne have en ny (for egen regning) Maskinen melder fortsat komponent fejl efter de havde besøg i går. Derudover fejler den på rense programmet og melder at rengøring fejlede. 
+Kundens grumseskuffe er i stykker og de vil gerne have en ny (for egen regning) Maskinen melder fortsat komponent fejl efter de havde besøg i går. Derudover fejler den på rense programmet og melder at rengøring fejlede. 
+Kundens grumseskuffe er i stykker og de vil gerne have en ny (for egen regning)","['131000011R', '130302294', '130302199', '130302268', '130302201', '130302244']","[1.0, 3.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P RS,Nedbrud
 WO017913,Maskinen melder water flow error og kan ikke lave en fuld kop. Derudover flimre skærmen periodisk.,['130302403'],[2.0],Thermoplan Kaffemaskine BW4c CTM2,Nedbrud
 WO017945,"Ring for aftale til Isolde Tlf.: 20344566. I morgen er hun der fra kl. 9.30
 Melder vandflow fejl. Laver ikke rigtig mængde samt nogle gange vil den slet ikke lave kaffe.",['130302403'],[2.0],Thermoplan Kaffemaskine BW4c CTM2 TC,Nedbrud
@@ -3482,6 +3619,7 @@ WO018476,"Maskinen kan ikke lave mælkedrikke. Siger hele tiden at mælken er to
 WO018481,Giver 1/2 kopper kaffe og stærk espresso  Giver 1/2 kopper kaffe og stærk espresso ,"['130301657', '130301682']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO018502,drypper fra forreste venstre ben. + kaffe mængde i kop er mindre end den plejer at være. ,['130302194'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
 WO018511,Kaffemaskine er utæt.,['130305966'],[2.0],Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
+WO018514,Giver ikke mælk. Si i sugerør er væk iflg Hans Giver ikke mælk. Si i sugerør er væk iflg Hans Giver ikke mælk. Si i sugerør er væk iflg Hans Giver ikke mælk. Si i sugerør er væk iflg Hans Giver ikke mælk. Si i sugerør er væk iflg Hans Giver ikke mælk. Si i sugerør er væk iflg Hans,"['130301535', 'X130302082', '130301901', '132000000', '130302287', '130301715']","[5.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO018519,"Kunden har ringet ind i sidste uge fordi de har problemer med at maskinen slår relæet, de har forsøgt at skifte sikringerne, men den virker fortsat ikke. Kunden har ringet ind i sidste uge fordi de har problemer med at maskinen slår relæet, de har forsøgt at skifte sikringerne, men den virker fortsat ikke. Kunden har ringet ind i sidste uge fordi de har problemer med at maskinen slår relæet, de har forsøgt at skifte sikringerne, men den virker fortsat ikke. Kunden har ringet ind i sidste uge fordi de har problemer med at maskinen slår relæet, de har forsøgt at skifte sikringerne, men den virker fortsat ikke. Kunden har ringet ind i sidste uge fordi de har problemer med at maskinen slår relæet, de har forsøgt at skifte sikringerne, men den virker fortsat ikke.","['130302194', '130302253', '130302205', '130302173', '130302193']","[1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P TC,Nedbrud
 WO018521,"Kontakt kunden dagen inden planlagt besøg for at de kan nå at lave adgangskort klar: 
 Enten kontakt: Katarina tlf. nr. 71 92 02 29 eller Victor tlf. nr. 50 55 05 82
@@ -3744,6 +3882,19 @@ WO019515,Maskinen er gået helt i sort. De var i gang med at brygge 3 kopper kaf
 WO019520,Mug på mælkeslange + der kommer vand på bordpladen.,['130305966'],[2.0],Thermoplan Kaffemaskine BW4c CTM2 P RS TC,Nedbrud
 WO019528,Mislyde i forbindelse med brygning,['130305536'],[1.0],Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO019538,Maskinen melder kolbe fejl og er helt ude af drift. Maskinen melder kolbe fejl og er helt ude af drift.,"['130301201', '130301175']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
+WO019541,"Fejl med produktet “Ekstra skum”. Maskinen “går i selvsving”, og der kommer ingen foam. Det er heller ikke muligt at afbryde produktet på krydset. 
+
+Periodisk vil maskinen gerne udlevere foam. Fejl med produktet “Ekstra skum”. Maskinen “går i selvsving”, og der kommer ingen foam. Det er heller ikke muligt at afbryde produktet på krydset. 
+
+Periodisk vil maskinen gerne udlevere foam. Fejl med produktet “Ekstra skum”. Maskinen “går i selvsving”, og der kommer ingen foam. Det er heller ikke muligt at afbryde produktet på krydset. 
+
+Periodisk vil maskinen gerne udlevere foam. Fejl med produktet “Ekstra skum”. Maskinen “går i selvsving”, og der kommer ingen foam. Det er heller ikke muligt at afbryde produktet på krydset. 
+
+Periodisk vil maskinen gerne udlevere foam. Fejl med produktet “Ekstra skum”. Maskinen “går i selvsving”, og der kommer ingen foam. Det er heller ikke muligt at afbryde produktet på krydset. 
+
+Periodisk vil maskinen gerne udlevere foam. Fejl med produktet “Ekstra skum”. Maskinen “går i selvsving”, og der kommer ingen foam. Det er heller ikke muligt at afbryde produktet på krydset. 
+
+Periodisk vil maskinen gerne udlevere foam.","['130302193', '130301923', '130302294', '130302366', '130302194', '130301058']","[2.0, 1.0, 2.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
 WO019559,"Mælken er sur.
 Maskinen opløser ikke rensetabletter helt væk Mælken er sur.
 Maskinen opløser ikke rensetabletter helt væk Mælken er sur.
@@ -3779,6 +3930,7 @@ WO019698,Maskinen siger den skal have skiftet vandfilter og de har problermer me
 WO019700,Kan ikke lave kaffe Kan ikke lave kaffe,"['130302201', '130302349']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4 CTM2 PF RL TC AO,Nedbrud
 WO019709,Slår relæ,['130301917'],[1.0],Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
 WO019710,Drypper fra grumsebakke der er helt fyldt op med vand. Kunden vil gerne have tjekket maskine nr. 1 og 2 når I er der ude.  Drypper fra grumsebakke der er helt fyldt op med vand. Kunden vil gerne have tjekket maskine nr. 1 og 2 når I er der ude. ,"['130301638', '130301892']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
+WO019722,"Det sorte på steamer armen har sat sig fast, derudover er den utæt for oven som gør at den ikke kan rengøres ordentligt. Det sorte på steamer armen har sat sig fast, derudover er den utæt for oven som gør at den ikke kan rengøres ordentligt. Det sorte på steamer armen har sat sig fast, derudover er den utæt for oven som gør at den ikke kan rengøres ordentligt. Det sorte på steamer armen har sat sig fast, derudover er den utæt for oven som gør at den ikke kan rengøres ordentligt. Det sorte på steamer armen har sat sig fast, derudover er den utæt for oven som gør at den ikke kan rengøres ordentligt. Det sorte på steamer armen har sat sig fast, derudover er den utæt for oven som gør at den ikke kan rengøres ordentligt.","['130301821', '130301317', '130301918', '130301811', '130301892', '130301624']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO019732,Uldeverer for lidt. Uldeverer for lidt. Uldeverer for lidt.,"['130301922', '130301715', '132000000']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO019737,Fejl tekst fra mail: Vores maskine Thermoplan nr. 3 vil ikke give/suge mælk Fejl tekst fra mail: Vores maskine Thermoplan nr. 3 vil ikke give/suge mælk Fejl tekst fra mail: Vores maskine Thermoplan nr. 3 vil ikke give/suge mælk Fejl tekst fra mail: Vores maskine Thermoplan nr. 3 vil ikke give/suge mælk Fejl tekst fra mail: Vores maskine Thermoplan nr. 3 vil ikke give/suge mælk,"['130301535', '130301715', '130301923', '130301127', '130301686']","[2.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO019755,Skriver piston error,['131000010R'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
@@ -3841,6 +3993,7 @@ Dbh Bettina (Bech-Bruun)",['130302403'],[2.0],Thermoplan Kaffemaskine BW4c CTM2 
 WO020003,"Genkørsel: Den stopper under rengøring, den skriver noget med vandtilførsel.
 De vil gerne hvis vi kan gå maskinen ordentlig igennem, da hun syndes maskinen driller dem og de er fuldt booket op de næste mange dage. Genkørsel: Den stopper under rengøring, den skriver noget med vandtilførsel.
 De vil gerne hvis vi kan gå maskinen ordentlig igennem, da hun syndes maskinen driller dem og de er fuldt booket op de næste mange dage.","['130302201', '130301129']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
+WO020028,Vand flow fejl. Vand flow fejl. Vand flow fejl. Vand flow fejl. Vand flow fejl. Vand flow fejl.,"['130302227', '130302197', '130302209', '130302294', '130302197', '130302403']","[1.0, 1.0, 1.0, 4.0, 1.0, 2.0]",Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
 WO020042,Kunden oplyser at de har haft besøg i sidste uge og fortsat har problemer med maskinen. De har problemer med renseprogrammet. Kunden oplyser at de har haft besøg i sidste uge og fortsat har problemer med maskinen. De har problemer med renseprogrammet. Kunden oplyser at de har haft besøg i sidste uge og fortsat har problemer med maskinen. De har problemer med renseprogrammet. Kunden oplyser at de har haft besøg i sidste uge og fortsat har problemer med maskinen. De har problemer med renseprogrammet.,"['130302403', '130302366', '130302294', '130306183']","[1.0, 1.0, 3.0, 1.0]",Thermoplan Kaffemaskine BW4 CTM2 2M RL TC 380V,Nedbrud
 WO020045,Kunden vil gerne have maskinen gennemgået fordi den ikke altid laver mælkeskummet som den plejer. Det virker mere tyndt. Kunden vil gerne have maskinen gennemgået fordi den ikke altid laver mælkeskummet som den plejer. Det virker mere tyndt.,"['130301127', '130301128']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO020057,"Maskinen vil ikke lave mælkedrikke. Hvis besøg først bliver i morgen, ønsker kunden først besøg efter kl. 10 Maskinen vil ikke lave mælkedrikke. Hvis besøg først bliver i morgen, ønsker kunden først besøg efter kl. 10 Maskinen vil ikke lave mælkedrikke. Hvis besøg først bliver i morgen, ønsker kunden først besøg efter kl. 10 Maskinen vil ikke lave mælkedrikke. Hvis besøg først bliver i morgen, ønsker kunden først besøg efter kl. 10","['130301715', '130301535', '130301922', '130302396']","[1.0, 2.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
@@ -3978,6 +4131,13 @@ Piston error. Havde det også i sidste uge. hun er meget utålmodigt, vil gerne 
 Piston error. Havde det også i sidste uge.","['130301317', '130301201', '130301361', '130301892', '130301318']","[1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO020586,Efter rens om aftenen lækker maskinen ekstra meget vand så når de møder ind næste dag er der vand over det hele. Efter rens om aftenen lækker maskinen ekstra meget vand så når de møder ind næste dag er der vand over det hele.,"['130301127', '131000009R']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO020587,Genudkørsel: Maskinen melder fortsat fejl efter besøg i går 14/9. Den vil ikke trække mælk op og den bliver ved med at skrive rens påkrævet.,['130302070'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
+WO020607,"Vil gerne have besøg i dag om muligt.
+Den vil ikke give mælk, der er godt nok mælk i slangen, men der kommer ikke noget ud. Vil gerne have besøg i dag om muligt.
+Den vil ikke give mælk, der er godt nok mælk i slangen, men der kommer ikke noget ud. Vil gerne have besøg i dag om muligt.
+Den vil ikke give mælk, der er godt nok mælk i slangen, men der kommer ikke noget ud. Vil gerne have besøg i dag om muligt.
+Den vil ikke give mælk, der er godt nok mælk i slangen, men der kommer ikke noget ud. Vil gerne have besøg i dag om muligt.
+Den vil ikke give mælk, der er godt nok mælk i slangen, men der kommer ikke noget ud. Vil gerne have besøg i dag om muligt.
+Den vil ikke give mælk, der er godt nok mælk i slangen, men der kommer ikke noget ud.","['130301214', '130301892', '130301923', '130301739', '130301997', '130301535']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO020611,Melder fejl på vandflow,['130302244'],[2.0],Thermoplan Kaffemaskine BW4c CTM2 RS TC,Nedbrud
 WO020615,"De vil gerne have besøg hurtigst muligt ifølge LS
 Den kan ikke lave mælkedrikke",['130302197'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P RS TC,Nedbrud
@@ -4060,6 +4220,21 @@ De har fået timer på deres kaffemaskine, så de kan slukke for den om natten !
 Da de starter den op, drypper der med vand ud under maskinen.
 Den skrev også koger virker ikke, men det har hun ordnet.
 Mælken var selvfølelig også sur.",['130302253'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
+WO020955,"Ønsker besøg i dag, hvis muligt. OBS på adresse. Maskine står i mødecenter, Prags Boulevard 45, lige ved rundkørslen.
+Tag serienummer til sagen.
+Giver ikke nok mælk og skummer ikke. Ønsker besøg i dag, hvis muligt. OBS på adresse. Maskine står i mødecenter, Prags Boulevard 45, lige ved rundkørslen.
+Tag serienummer til sagen.
+Giver ikke nok mælk og skummer ikke. Ønsker besøg i dag, hvis muligt. OBS på adresse. Maskine står i mødecenter, Prags Boulevard 45, lige ved rundkørslen.
+Tag serienummer til sagen.
+Giver ikke nok mælk og skummer ikke. Ønsker besøg i dag, hvis muligt. OBS på adresse. Maskine står i mødecenter, Prags Boulevard 45, lige ved rundkørslen.
+Tag serienummer til sagen.
+Giver ikke nok mælk og skummer ikke. Ønsker besøg i dag, hvis muligt. OBS på adresse. Maskine står i mødecenter, Prags Boulevard 45, lige ved rundkørslen.
+Tag serienummer til sagen.
+Giver ikke nok mælk og skummer ikke. Ønsker besøg i dag, hvis muligt. OBS på adresse. Maskine står i mødecenter, Prags Boulevard 45, lige ved rundkørslen.
+Tag serienummer til sagen.
+Giver ikke nok mælk og skummer ikke. Ønsker besøg i dag, hvis muligt. OBS på adresse. Maskine står i mødecenter, Prags Boulevard 45, lige ved rundkørslen.
+Tag serienummer til sagen.
+Giver ikke nok mælk og skummer ikke.","['130301715', '130301318', '130301127', '130301845', '130301893', '130301128', '130301535']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 4.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO020968,"OK med besøg mandag. Skal ikke tages af vagten.
 Mælkeslange kan ikke længere rengøres af rengøringsprogram.",['130302313'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO020979,Sprutter når den starter med at give mælk,['130301377'],[0.5],Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
@@ -4157,6 +4332,7 @@ Når de tager mælk, brummer maskinen, men levere ikke mælk. Mælkeslange ser i
 WO021239,"Kaffemaskinen vil ikke lukke vand ind. Hun har haft teknikker til at kigge på den, men de kan heller ikke få det til at virke. Kaffemaskinen vil ikke lukke vand ind. Hun har haft teknikker til at kigge på den, men de kan heller ikke få det til at virke. Kaffemaskinen vil ikke lukke vand ind. Hun har haft teknikker til at kigge på den, men de kan heller ikke få det til at virke.","['130302194', '130301657', '130302193']","[1.0, 1.0, 2.0]",Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
 WO021241,Lækker vand. Kan ikke se hvorfra det kommer. Lækker vand. Kan ikke se hvorfra det kommer. Lækker vand. Kan ikke se hvorfra det kommer. Lækker vand. Kan ikke se hvorfra det kommer. Lækker vand. Kan ikke se hvorfra det kommer.,"['130302194', '130302269', '130302294', '130302193', '130302253']","[1.0, 1.0, 2.0, 2.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
 WO021246,Maskinen der står til venstre når man kommer fra køkkenet giver for lidt vand. Maskinen der står til venstre når man kommer fra køkkenet giver for lidt vand. Maskinen der står til venstre når man kommer fra køkkenet giver for lidt vand. Maskinen der står til venstre når man kommer fra køkkenet giver for lidt vand.,"['130301128', '130301893', '130301715', '132000000']","[1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
+WO021250,Der er gentagende gange vand under maskinen. Der er gentagende gange vand under maskinen. Der er gentagende gange vand under maskinen. Der er gentagende gange vand under maskinen. Der er gentagende gange vand under maskinen. Der er gentagende gange vand under maskinen.,"['130302194', '130301923', '130301492', '130302294', '130302366', '130302193']","[1.0, 1.0, 1.0, 2.0, 1.0, 2.0]",Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
 WO021255,"Den drypper fra den ene side ved shot og den siger en træls pivelyd, som om der er en skrue løs.",['130301535'],[1.0],Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO021256,"Giver ikke nok mælk, løber langsomt  Giver ikke nok mælk, løber langsomt  Giver ikke nok mælk, løber langsomt ","['130302396', '130301535', '130301923']","[1.0, 2.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO021261,"Den lækker en masse vand, det kommer ud i bunden Den lækker en masse vand, det kommer ud i bunden Den lækker en masse vand, det kommer ud i bunden","['130302194', '130302269', '130306229']","[1.0, 1.0, 0.5]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
@@ -4175,6 +4351,13 @@ Vores kaffemaskine virker ikke. Den siger, at noget er gået galt i forbindelse 
  
 Vi har brug for at I kigger på den så hurtigt som muligt.
 ","['130302385', '130302251', '130302294']","[1.0, 1.0, 2.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
+WO021292,"Hun siger, at de ringede i sidste uge, men der ligger ikke en sag, så hvis i kan nå den i dag vil det være perfekt :-)
+Kaffemaskinen siger den mangler kaffe, men det gør den ikke og har gjort det hele sidst uge.
+Når de trykker tjek, går der flere minutter og så kan de lave en kop kaffe. Hun siger, at de ringede i sidste uge, men der ligger ikke en sag, så hvis i kan nå den i dag vil det være perfekt :-)
+Kaffemaskinen siger den mangler kaffe, men det gør den ikke og har gjort det hele sidst uge.
+Når de trykker tjek, går der flere minutter og så kan de lave en kop kaffe. Hun siger, at de ringede i sidste uge, men der ligger ikke en sag, så hvis i kan nå den i dag vil det være perfekt :-)
+Kaffemaskinen siger den mangler kaffe, men det gør den ikke og har gjort det hele sidst uge.
+Når de trykker tjek, går der flere minutter og så kan de lave en kop kaffe.","['130301344', '130301624', '130301201']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBT2,Nedbrud
 WO021293,"Hvis ikke det bliver i dag skal kunde informeres. Melder mælketemp. for høj. Når de rykker på ledning, melder den ikke mælketemp. for høj, som om der er en løs forbindelse. VI har der 3 gange på samme dag, samme fejl i sidste uge. Hvis ikke det bliver i dag skal kunde informeres. Melder mælketemp. for høj. Når de rykker på ledning, melder den ikke mælketemp. for høj, som om der er en løs forbindelse. VI har der 3 gange på samme dag, samme fejl i sidste uge. Hvis ikke det bliver i dag skal kunde informeres. Melder mælketemp. for høj. Når de rykker på ledning, melder den ikke mælketemp. for høj, som om der er en løs forbindelse. VI har der 3 gange på samme dag, samme fejl i sidste uge.","['131000011R', '130302201', '130302313']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO021305,Rengøringsprogram afbrydes. Melder fejl i status styre enhed. Rengøringsprogram afbrydes. Melder fejl i status styre enhed. Rengøringsprogram afbrydes. Melder fejl i status styre enhed.,"['130302313', '130304345', '130302070']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO021313,Steamer utæt Steamer utæt Steamer utæt,"['130301860', '130301918', '130301811']","[1.0, 1.0, 1.0]",Te og Steam BW3 TS 400 V,Nedbrud
@@ -4308,6 +4491,7 @@ WO021711,Den skummer ikke mælken  Den skummer ikke mælken ,"['132000000', '130
 WO021740,Skal have ny skærm Skal have ny skærm,"['130302272', '130302273']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO021741,Giver ikke rette mængde vand til Americano,['130301523'],[1.0],Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO021763,Den melder vandflowfejl Den melder vandflowfejl,"['130301273', '130302388']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
+WO021818,Maskinen kan ikke udlevere mælk. Maskinen kan ikke udlevere mælk. Maskinen kan ikke udlevere mælk. Maskinen kan ikke udlevere mælk. Maskinen kan ikke udlevere mælk. Maskinen kan ikke udlevere mælk. Maskinen kan ikke udlevere mælk. Maskinen kan ikke udlevere mælk. Maskinen kan ikke udlevere mælk.,"['130302396', '130301535', '130301922', '130301715', '130301338', '130301806', '130301638', '130302366', '130301563']","[1.0, 2.0, 1.0, 1.0, 1.0, 1.0, 2.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO021826,"Ønsker besøg i dag.
 Skærm slukker når drik er udleveret.
 Kaffe løber kun ud af den ene rør i udløbshovede og ikke begge rør.
@@ -4367,6 +4551,13 @@ WO022082,"Tekst fra mail: 24togo – her er den gal med kakaoen, stopper til nå
 
 Kan I komme ud og kigge på det på torsdag, hvor vi ligger i Hirtshals fra kl.11.00-19.00?
 ",['130302291'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P RS TC,Nedbrud
+WO022104,"De vil gerne have besøg hurtigst muligt, om mulig.
+Kan det løses over telefonen, kan i ringe til Cecilia Tlf.: 5187 7227.
+Den vil ikke steame ordentlig.
+De slukker den om aften og rengøre den. Dem som har rengjort den har sat steamerarm i blød i vand over natten og nu løber der en masse vand ud. De vil gerne have besøg hurtigst muligt, om mulig.
+Kan det løses over telefonen, kan i ringe til Cecilia Tlf.: 5187 7227.
+Den vil ikke steame ordentlig.
+De slukker den om aften og rengøre den. Dem som har rengjort den har sat steamerarm i blød i vand over natten og nu løber der en masse vand ud.","['130305536', '130301058']","[1.0, 2.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO022108,Melder piston error Melder piston error,"['130301892', '130301318']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO022114,Stopper til under mixerskål for kakao,['130302291'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO022118,Giver ikke mælk,['130301715'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
@@ -4648,6 +4839,19 @@ Maskine slukkede efter rengøring, som blev rigtigt afsluttet.
 De kan ikke tænde den igen. Spørg efter Sabrina ved ankomst. Hun kan vise vej til maskinen.
 Maskine slukkede efter rengøring, som blev rigtigt afsluttet.
 De kan ikke tænde den igen.","['130302226', '130306148', '130306224']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 TC,Nedbrud
+WO023557,"Den bliver ved med at sige de skal køre rengøring.
+De har fået besked på at tage rensetabs ud af maskinen, genstarte og køre rens igen og det siger han de har gjort.
+Han spørger til om det kan passe der er frost indv. i køleskab. Den bliver ved med at sige de skal køre rengøring.
+De har fået besked på at tage rensetabs ud af maskinen, genstarte og køre rens igen og det siger han de har gjort.
+Han spørger til om det kan passe der er frost indv. i køleskab. Den bliver ved med at sige de skal køre rengøring.
+De har fået besked på at tage rensetabs ud af maskinen, genstarte og køre rens igen og det siger han de har gjort.
+Han spørger til om det kan passe der er frost indv. i køleskab. Den bliver ved med at sige de skal køre rengøring.
+De har fået besked på at tage rensetabs ud af maskinen, genstarte og køre rens igen og det siger han de har gjort.
+Han spørger til om det kan passe der er frost indv. i køleskab. Den bliver ved med at sige de skal køre rengøring.
+De har fået besked på at tage rensetabs ud af maskinen, genstarte og køre rens igen og det siger han de har gjort.
+Han spørger til om det kan passe der er frost indv. i køleskab. Den bliver ved med at sige de skal køre rengøring.
+De har fået besked på at tage rensetabs ud af maskinen, genstarte og køre rens igen og det siger han de har gjort.
+Han spørger til om det kan passe der er frost indv. i køleskab.","['130302403', '130302269', '130302201', '130302435', '130302268', '130302294']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4 CTM2 P 2M AO TC extern grums 230V,Nedbrud
 WO023558,Stopper til under mixerskål for kakao,['130302291'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P RS,Nedbrud
 WO023577,"Genkørsel
 Den er stadigvæk utæt og der kommer kun 1 stråle ud ved udløbshoved når de laver Americano. Genkørsel
@@ -4751,7 +4955,9 @@ WO023981,"Den røde rensenøgle er knækket, den røde pind ligger inde i maskin
 WO023982,"Kaffemaskinen registrere ikke når der sættes en rød rensetabs i.
 ",['130302422'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 TC,Nedbrud
 WO023988,"har problemer med at registrere mælken, har prøvet at gøre føleren ren mange gange.",['130302313'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P TC,Nedbrud
+WO023999,Vand I grums bakke Vand I grums bakke Vand I grums bakke Vand I grums bakke Vand I grums bakke Vand I grums bakke Vand I grums bakke,"['130301892', '130301280', '130301128', '130301535', '131000007R', '130301127', '130301715']","[1.0, 1.0, 1.0, 3.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO024001,"Drypper mælk fra maskinen, ned i underskabet, haster lidt. ",['132000000'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 RS TC,Nedbrud
+WO024016,"Der løber vand op over spildbakken, har prøvet med afløbsrens. 2. sal og 4. sal er værst. Men oplever det på alle maskiner. Der løber vand op over spildbakken, har prøvet med afløbsrens. 2. sal og 4. sal er værst. Men oplever det på alle maskiner. Der løber vand op over spildbakken, har prøvet med afløbsrens. 2. sal og 4. sal er værst. Men oplever det på alle maskiner. Der løber vand op over spildbakken, har prøvet med afløbsrens. 2. sal og 4. sal er værst. Men oplever det på alle maskiner. Der løber vand op over spildbakken, har prøvet med afløbsrens. 2. sal og 4. sal er værst. Men oplever det på alle maskiner. Der løber vand op over spildbakken, har prøvet med afløbsrens. 2. sal og 4. sal er værst. Men oplever det på alle maskiner. Der løber vand op over spildbakken, har prøvet med afløbsrens. 2. sal og 4. sal er værst. Men oplever det på alle maskiner. Der løber vand op over spildbakken, har prøvet med afløbsrens. 2. sal og 4. sal er værst. Men oplever det på alle maskiner. Der løber vand op over spildbakken, har prøvet med afløbsrens. 2. sal og 4. sal er værst. Men oplever det på alle maskiner. Der løber vand op over spildbakken, har prøvet med afløbsrens. 2. sal og 4. sal er værst. Men oplever det på alle maskiner. Der løber vand op over spildbakken, har prøvet med afløbsrens. 2. sal og 4. sal er værst. Men oplever det på alle maskiner. Der løber vand op over spildbakken, har prøvet med afløbsrens. 2. sal og 4. sal er værst. Men oplever det på alle maskiner. Der løber vand op over spildbakken, har prøvet med afløbsrens. 2. sal og 4. sal er værst. Men oplever det på alle maskiner. Der løber vand op over spildbakken, har prøvet med afløbsrens. 2. sal og 4. sal er værst. Men oplever det på alle maskiner. Der løber vand op over spildbakken, har prøvet med afløbsrens. 2. sal og 4. sal er værst. Men oplever det på alle maskiner. Der løber vand op over spildbakken, har prøvet med afløbsrens. 2. sal og 4. sal er værst. Men oplever det på alle maskiner. Der løber vand op over spildbakken, har prøvet med afløbsrens. 2. sal og 4. sal er værst. Men oplever det på alle maskiner. Der løber vand op over spildbakken, har prøvet med afløbsrens. 2. sal og 4. sal er værst. Men oplever det på alle maskiner. Der løber vand op over spildbakken, har prøvet med afløbsrens. 2. sal og 4. sal er værst. Men oplever det på alle maskiner. Der løber vand op over spildbakken, har prøvet med afløbsrens. 2. sal og 4. sal er værst. Men oplever det på alle maskiner.","['130301139', '130301139', '130303478', '130303478', '130301139', '130303478', '130303478', '130301139', '130301139', '130301139', '130301139', '130303478', '130301139', '130303478', '130301139', '130301139', '130303478', '130303478', '130303478', '130303478']","[1.0, 1.0, 2.0, 2.0, 1.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 2.0, 1.0, 2.0, 1.0, 1.0, 2.0, 2.0, 2.0, 2.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO024022,Alle mælkedrikke kan ikke vælges. Melder ikke nogle fejl på mælken (mængde eller temperatur),['132000000'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 TC,Nedbrud
 WO024059,"Test på dele på garanti.
 ",['130302227'],[1.0],Kaffemaskine BW4c CTM2 TC extern grums,Nedbrud
@@ -5106,6 +5312,7 @@ WO025889,"Maskinen melder piston error.
 Heidi har forsøgt via telefon support at få maskinen i drift.
 Heidi privat 28939964",['130301273'],[1.0],Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO025893,"Giver ikke luft, når den skal steame, fjeder bliver ved at springe ud. Giver ikke luft, når den skal steame, fjeder bliver ved at springe ud.","['130301141', '130301652']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
+WO025897,Maskinen melder Piston Error Maskinen melder Piston Error Maskinen melder Piston Error Maskinen melder Piston Error Maskinen melder Piston Error Maskinen melder Piston Error,"['130301318', '130301317', '130301624', '130301892', '130301201', '130301361']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
 WO025898,Maskinen er utæt inde i maskinen. ,['130301917'],[1.0],Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO025909,"Den stopper midt i rengøring ca. 18 min tilbage.
 Den skriver fejl ved køleskabet ved mælk.",['131000014R'],[1.0],Thermoplan Kaffemaskine BW4 Neo CTM1 TC,Nedbrud
@@ -5262,6 +5469,7 @@ WO026482,"Noter venligst serie nr. da dette ikke er oplyst dette.
 Tekst fra mail: koplogoer mangler på alle maskiner samt deres gamle maskine er den røde tap knækket ved rensenøglen så de ikke kan køre rengøring.",['130302422'],[1.0],Thermoplan Kaffemaskine BW4c CTM2,Nedbrud
 WO026492,"Den lækker med vand under neden.
 ",['130302346'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
+WO026503,Drypper vand i grumsebakke Drypper vand i grumsebakke Drypper vand i grumsebakke Drypper vand i grumsebakke Drypper vand i grumsebakke Drypper vand i grumsebakke,"['130301535', '130301892', '130301369', '130301860', '130305536', '130301811']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO026506,Udløbshovede falder hele tiden ned. Udløbshovede falder hele tiden ned.,"['130301611', '130301728R']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO026511,"Giver ikke mælk
 Fejler under rengøring
@@ -5281,6 +5489,10 @@ WO026694,"Garanti !!!
 Samme fejl som sidst.
 Den giver ingen mælk, samt den stopper i rengøring ved mælken.",['130302227'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P TC,Nedbrud
 WO026705,For meget i kopperne,['130302287'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
+WO026716,"Bønner sidder fast i grinder. Kunde har forsøgt at skille det ad for at fjerne bønnerne, men det virker ikke.
+Maskinen kværner ikke noget kaffe. Bønner sidder fast i grinder. Kunde har forsøgt at skille det ad for at fjerne bønnerne, men det virker ikke.
+Maskinen kværner ikke noget kaffe. Bønner sidder fast i grinder. Kunde har forsøgt at skille det ad for at fjerne bønnerne, men det virker ikke.
+Maskinen kværner ikke noget kaffe.","['130301344', '130301624', '130301317']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
 WO026733,Doubleshot løber på 30-35 sek. Kunden har talt med KE som kører 14-02-2023 Doubleshot løber på 30-35 sek. Kunden har talt med KE som kører 14-02-2023,"['130305536', '130305533']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO026738,"Maskinen udleverer for lille mængde når der laves mælkedrikke. Tjek alle drikke, for at være sikker.",['132000000'],[1.0],Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
 WO026746,"Tekst fra mail: Vores maskine Thermoplan nr 2 vil ikke give mælk/havre.
@@ -5376,6 +5588,19 @@ den lyder lidt mystisk når den laver mælk.
 Til tekniker: Ring til Kurt, Kontra, når servicen er klaret. tlf. 22132406
 ","['130302197', '130302294', '130301893']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 RS TC,Nedbrud
 WO027206,Giver 3/4 kopper Giver 3/4 kopper Giver 3/4 kopper Giver 3/4 kopper,"['130301338', '130301308', '130301715', '130301535']","[1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
+WO027209,"Giver ingen mælk ved alle mælkedrikke.
+Filter er tjekket og er ikke stoppet.
+Vandflowfejl Giver ingen mælk ved alle mælkedrikke.
+Filter er tjekket og er ikke stoppet.
+Vandflowfejl Giver ingen mælk ved alle mælkedrikke.
+Filter er tjekket og er ikke stoppet.
+Vandflowfejl Giver ingen mælk ved alle mælkedrikke.
+Filter er tjekket og er ikke stoppet.
+Vandflowfejl Giver ingen mælk ved alle mælkedrikke.
+Filter er tjekket og er ikke stoppet.
+Vandflowfejl Giver ingen mælk ved alle mælkedrikke.
+Filter er tjekket og er ikke stoppet.
+Vandflowfejl","['130302294', '130301923', '130306229', '130301563', '130302194', '130302269']","[4.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO027219,Udløbsslange til kaffe nappet over,['130301704'],[1.0],Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO027221,Mælken løber ud inde i maskinen og slangen til kalkfilter er knækket,['130304345'],[1.0],Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO027245,"Er meget træt af deres maskine, vi har været der mange gange på det sidste.
@@ -6057,6 +6282,17 @@ Grumseskuffen er tømt og samme fejl igen. Meler Powder error, kun ved stor kaff
 Grumseskuffen er tømt og samme fejl igen.","['130301624', '130301273', '130301317', '130301364', '130301284']","[1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
 WO030268,Mælk kommer meget voldsomt ud. Koppen vælter.,['130301704'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO030274,"Maskine vil ikke give mælk ved ""kaffe latte"". Men ved ""kaffe med mælk"" vil den gerne give lidt mælk.",['130301535'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
+WO030278,"Giver vandflowfejl når de vil tage kaffe med mælk, ikke når de tager kun kaffe.
+Vil så rengøre den, hvor den meldte fejl. Hun nåede ikke af aflæse fejltekst før kollega slettede den. Lugter brændt. Giver vandflowfejl når de vil tage kaffe med mælk, ikke når de tager kun kaffe.
+Vil så rengøre den, hvor den meldte fejl. Hun nåede ikke af aflæse fejltekst før kollega slettede den. Lugter brændt. Giver vandflowfejl når de vil tage kaffe med mælk, ikke når de tager kun kaffe.
+Vil så rengøre den, hvor den meldte fejl. Hun nåede ikke af aflæse fejltekst før kollega slettede den. Lugter brændt. Giver vandflowfejl når de vil tage kaffe med mælk, ikke når de tager kun kaffe.
+Vil så rengøre den, hvor den meldte fejl. Hun nåede ikke af aflæse fejltekst før kollega slettede den. Lugter brændt. Giver vandflowfejl når de vil tage kaffe med mælk, ikke når de tager kun kaffe.
+Vil så rengøre den, hvor den meldte fejl. Hun nåede ikke af aflæse fejltekst før kollega slettede den. Lugter brændt. Giver vandflowfejl når de vil tage kaffe med mælk, ikke når de tager kun kaffe.
+Vil så rengøre den, hvor den meldte fejl. Hun nåede ikke af aflæse fejltekst før kollega slettede den. Lugter brændt. Giver vandflowfejl når de vil tage kaffe med mælk, ikke når de tager kun kaffe.
+Vil så rengøre den, hvor den meldte fejl. Hun nåede ikke af aflæse fejltekst før kollega slettede den. Lugter brændt. Giver vandflowfejl når de vil tage kaffe med mælk, ikke når de tager kun kaffe.
+Vil så rengøre den, hvor den meldte fejl. Hun nåede ikke af aflæse fejltekst før kollega slettede den. Lugter brændt. Giver vandflowfejl når de vil tage kaffe med mælk, ikke når de tager kun kaffe.
+Vil så rengøre den, hvor den meldte fejl. Hun nåede ikke af aflæse fejltekst før kollega slettede den. Lugter brændt. Giver vandflowfejl når de vil tage kaffe med mælk, ikke når de tager kun kaffe.
+Vil så rengøre den, hvor den meldte fejl. Hun nåede ikke af aflæse fejltekst før kollega slettede den. Lugter brændt.","['130302268', '130302213', '130305539', '130304344', '130302201', '130301923', '130302294', '130305533', '130302194', '132000000']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 4.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
 WO030281,"Utæt, kan ikke se hvorfra  Utæt, kan ikke se hvorfra ","['130302253', '130304344']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
 WO030283,"Deres kaffe er meget lys i farven ift. de andre lokationer. Deres kunder spørger også ofte efter dobbeltshot espresso fordi den er så lys/svag. Steamer sprøjter med kogende vand efter opskumming af mælk og efter dosering af tevand.
 Når man trykker manuelt steam, steamer den kun få sekunder og så skal man trykke igen.",['130301860'],[1.0],Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
@@ -6351,6 +6587,19 @@ Melder piston error. Kom efter rengøringsprogram er udført. Ring og info tid f
 Melder piston error. Kom efter rengøringsprogram er udført. Ring og info tid for besøg. Ønsker besøg i dag hvis muligt.
 Melder piston error. Kom efter rengøringsprogram er udført. Ring og info tid for besøg. Ønsker besøg i dag hvis muligt.
 Melder piston error. Kom efter rengøringsprogram er udført.","['130301624', '130301318', '130301175', '130301280']","[1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
+WO031576,"Bliver ved med at sige cold start rinse.
+Når man tester thevand er mega varmt.
+De er der fra 7.30 Bliver ved med at sige cold start rinse.
+Når man tester thevand er mega varmt.
+De er der fra 7.30 Bliver ved med at sige cold start rinse.
+Når man tester thevand er mega varmt.
+De er der fra 7.30 Bliver ved med at sige cold start rinse.
+Når man tester thevand er mega varmt.
+De er der fra 7.30 Bliver ved med at sige cold start rinse.
+Når man tester thevand er mega varmt.
+De er der fra 7.30 Bliver ved med at sige cold start rinse.
+Når man tester thevand er mega varmt.
+De er der fra 7.30","['130301318', '130301280', '130301175', '130301892', '130301638', '130301624']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
 WO031578,"Afløb løbet over så den har slået relæ.
 Så nu kan de ikke få gang i den.",['130301715'],[1.0],Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
 WO031583,Steamer virker ikke Steamer virker ikke,"['130302088', '130301715']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
@@ -6392,6 +6641,13 @@ Maskinen siger der ingen mælk er, men der er mælk. De har fuldt hus, så de vi
 Maskinen siger der ingen mælk er, men der er mælk.","['130301127', '130301901']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO031696,Melder piston error Melder piston error,"['130301280', '130301175R']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO031705,Dårlig mælk Dårlig mælk Dårlig mælk Dårlig mælk,"['130301806', '130301127', '130301209', '130301715']","[1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
+WO031710,"Ring i dag og info tid for besøg. Kaffemaskinen er slukket, men drypper forsat.
+Drypper fra under maskinen. Drypbakke sidder ordentligt fast. Ring i dag og info tid for besøg. Kaffemaskinen er slukket, men drypper forsat.
+Drypper fra under maskinen. Drypbakke sidder ordentligt fast. Ring i dag og info tid for besøg. Kaffemaskinen er slukket, men drypper forsat.
+Drypper fra under maskinen. Drypbakke sidder ordentligt fast. Ring i dag og info tid for besøg. Kaffemaskinen er slukket, men drypper forsat.
+Drypper fra under maskinen. Drypbakke sidder ordentligt fast. Ring i dag og info tid for besøg. Kaffemaskinen er slukket, men drypper forsat.
+Drypper fra under maskinen. Drypbakke sidder ordentligt fast. Ring i dag og info tid for besøg. Kaffemaskinen er slukket, men drypper forsat.
+Drypper fra under maskinen. Drypbakke sidder ordentligt fast.","['130305722', '130305966', '130302227', '130302194', '130302268', '130302193']","[1.0, 2.0, 1.0, 1.0, 1.0, 2.0]",Thermoplan Kaffemaskine BW4c CTM2 TC,Nedbrud
 WO031712,"Genganger efter besøg i går. I dag har maskinen sagt der var bønner i klemme, han har haft beholderne af og renset det hele, og nu kører maskinen uden fejl, men kaffen er så tynd at de ikke kan sælge den.  Så maskinen er slukket ned.",['130302403'],[2.0],Thermoplan Kaffemaskine BW4c CTM2,Nedbrud
 WO031715,"Ring og info tid for besøg.
 Opdatering: kunne ikke gennemføre rengøringsprogram. Opløste ikke røde tabs. melder ""fejl er detekteret""
@@ -6424,6 +6680,7 @@ WO031840,Fra mail: Maskine 3 thermoplan giver ikke noget mælk Fra mail: Maskine
 WO031865,"Ting er knækket, så de ikke ka rengøre maskine.
 David kan ikke uddybe, da han er på ferie. Deres hovednummer besvares ikke.",['130302422'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P RS TC,Nedbrud
 WO031878,"Sprøjter meget ved tevand-doseringen. Ved shots doserer den kun fra den en side. De tager 'gebis' ud hver aften og rengør, så de mener ikke den er tilstoppet der. Steamerarm sprøjter med varmt vand, så de brænder hænderne.",['130301811'],[1.0],Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
+WO031882,"Mangler en fjeder der hvor man steamer. Steamerarm sprøjter med varmt vand, så de brænder hænderne. Mangler en fjeder der hvor man steamer. Steamerarm sprøjter med varmt vand, så de brænder hænderne. Mangler en fjeder der hvor man steamer. Steamerarm sprøjter med varmt vand, så de brænder hænderne. Mangler en fjeder der hvor man steamer. Steamerarm sprøjter med varmt vand, så de brænder hænderne. Mangler en fjeder der hvor man steamer. Steamerarm sprøjter med varmt vand, så de brænder hænderne. Mangler en fjeder der hvor man steamer. Steamerarm sprøjter med varmt vand, så de brænder hænderne.","['130301860', '130301704', '130301796', '130301811', '130301535', '130301522']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO031884,Maskinen giver ikke rigtig mælk. Sprutter meget når den doserer. Giver ingen fejlmelding. Vi har kørt på samme problem ved tidligere besøg.,['130301806'],[1.0],Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO031919,Fejlsøge på mælkesystem. Vil ikke registrere mælk i beholder. Har prøvet at rengøre enden rigtig godt uden held. Fejlsøge på mælkesystem. Vil ikke registrere mælk i beholder. Har prøvet at rengøre enden rigtig godt uden held.,"['130302269', '130302313']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO031924,"Rød pind bag røde rensenøgle er knækket.
@@ -6531,6 +6788,14 @@ Steamer sprøjter med vand, når de vil steame mælk.
 21/07 Nu virker den slet ikke. Tekniker ring til kunde tlf. 3886 2297 (tast 2), så de ved du er på vej.
 Steamer sprøjter med vand, når de vil steame mælk.
 21/07 Nu virker den slet ikke.","['130301860', '130301811']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
+WO032451,"Kunde ønsker besøg hurtigst muligt
+Maskinen slår sikringen i deres bygning. Det er så snart maskinen er startet lidt op, så slår den HPFI-relæet. Kunde ønsker besøg hurtigst muligt
+Maskinen slår sikringen i deres bygning. Det er så snart maskinen er startet lidt op, så slår den HPFI-relæet. Kunde ønsker besøg hurtigst muligt
+Maskinen slår sikringen i deres bygning. Det er så snart maskinen er startet lidt op, så slår den HPFI-relæet. Kunde ønsker besøg hurtigst muligt
+Maskinen slår sikringen i deres bygning. Det er så snart maskinen er startet lidt op, så slår den HPFI-relæet. Kunde ønsker besøg hurtigst muligt
+Maskinen slår sikringen i deres bygning. Det er så snart maskinen er startet lidt op, så slår den HPFI-relæet. Kunde ønsker besøg hurtigst muligt
+Maskinen slår sikringen i deres bygning. Det er så snart maskinen er startet lidt op, så slår den HPFI-relæet. Kunde ønsker besøg hurtigst muligt
+Maskinen slår sikringen i deres bygning. Det er så snart maskinen er startet lidt op, så slår den HPFI-relæet.","['130301651', '130301811', '130301652', '130301141', '130301918', '130301421', '130301860']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
 WO032457,"Maskine afbrød renseprogram i første fase. Kunde kan ikke få lov at genstarte renseprogram. Maskine melder ""cleaning temp. too high"". Maskine afbrød renseprogram i første fase. Kunde kan ikke få lov at genstarte renseprogram. Maskine melder ""cleaning temp. too high"".","['130302461', '130302173']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4 CTM2 PF 2M RL TC AO 380V,Nedbrud
 WO032459,"Ring for at bestille plads på færgen. Ring gerne i dag og aftal besøget. Maskinen laver kun halve kopper når der tages mælkedrik. De har tjekket filter i mælkesuget, rengjort slange og kørt rens.  Desuden er pakningen på køleskabet gået. ",['130301715'],[1.0],Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO032461,"De er i havn i Hirtshals 15:40
@@ -6834,7 +7099,9 @@ WO034232,"Forsøg med tlf. support efter kl.12 - hun har skiftet mælk og nu sku
 WO034233,Ved rens kommer der i slutningen af programmet vand under maskinen. De har efterset kakaobeholder. ,['130302346'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P RS TC,Nedbrud
 WO034244,Vand under maskinen ved brygning af kaffe og kaffe bliver kun udleveret efter 5 tryk. Som om den ikke kværner.   Vand under maskinen ved brygning af kaffe og kaffe bliver kun udleveret efter 5 tryk. Som om den ikke kværner.  ,"['130301317', '130301273']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO034290,"Under rengøring kommer med stempelfejl, grumseskuffen er tømt og rensetabletter er opløst, men kan ikke gå videre. Kunde har før opkald forsøgt genstarte maskine. ",['130302257'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P RS,Nedbrud
+WO034296,Laver halve kopper ved cappuccino og latte. Anita har efterset mælkesug.  Laver halve kopper ved cappuccino og latte. Anita har efterset mælkesug.  Laver halve kopper ved cappuccino og latte. Anita har efterset mælkesug.  Laver halve kopper ved cappuccino og latte. Anita har efterset mælkesug.  Laver halve kopper ved cappuccino og latte. Anita har efterset mælkesug.  Laver halve kopper ved cappuccino og latte. Anita har efterset mælkesug. ,"['130301257', '130301872', '130301686', '130301257', '130301715', '132000000']","[2.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO034297,Der ligger kaffe/vand under maskinen. Brygger fint kaffen.  ,['132000000'],[1.0],Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
+WO034309,Drypper vand under maskinen. Der er meget vand i grumseskuffen. Drypper vand under maskinen. Der er meget vand i grumseskuffen. Drypper vand under maskinen. Der er meget vand i grumseskuffen. Drypper vand under maskinen. Der er meget vand i grumseskuffen. Drypper vand under maskinen. Der er meget vand i grumseskuffen. Drypper vand under maskinen. Der er meget vand i grumseskuffen.,"['130301316', '130301280', '130301175', '130301318', '130301773', '130301715']","[2.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO034319,Ved rengøringsprogram kommer der vand ud under maskinen. ,['130302298'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO034322,Vand i grumsebakken.  Vand i grumsebakken. ,"['130302403', '130302388']","[2.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P RS,Nedbrud
 WO034326,"Fra mail: Kværn virker ikke. Der er en fejl ""udfyld bønner"", men bønner er fyldte. På samme maskine siver vand ud fra bunden.",['130301175R'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
@@ -7075,6 +7342,7 @@ WO036329,Under rengøring stopper i step 3 med stempelfejl. Har oplevet samme fo
 WO036331,Vandflowfejl. Kommer 5-6 gange dagligt og ved manuel skyl kan der brygges kaffe igen. ,['131000011R'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO036354,"Reagere ikke på skærm, specielt ved renseknap. Skriger fra bryggeren.",['130301624'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO036359,"Ved bryg af kaffe, kommer der vand to steder under maskine. Koppen ligner at blive fyldt. men de skal tørre op ved hver kop der brygges. ",['130302194'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P TC,Nedbrud
+WO036370,"Laver meget tynd kaffe, kan ikke justere den Laver meget tynd kaffe, kan ikke justere den Laver meget tynd kaffe, kan ikke justere den Laver meget tynd kaffe, kan ikke justere den Laver meget tynd kaffe, kan ikke justere den Laver meget tynd kaffe, kan ikke justere den","['130301175R', '130301535', '130301280R', '130301773', '130301624', '131000009R']","[1.0, 1.0, 1.0, 2.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO036385,Rød pind ved røde rensenøgle er knækket.,['130302422'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO036388,"Maskinen leverer ikke de korrekte mængder - fx kommer der ikke den rette mængde på cappuccino, så de vil gerne have maskinen justeret. Maskinen leverer ikke de korrekte mængder - fx kommer der ikke den rette mængde på cappuccino, så de vil gerne have maskinen justeret. Maskinen leverer ikke de korrekte mængder - fx kommer der ikke den rette mængde på cappuccino, så de vil gerne have maskinen justeret.","['130306229', '130302194', '130301994']","[0.5, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P RS,Nedbrud
 WO036391,Der kommer vand ud ved kalkfilter. Der kommer vand ud ved kalkfilter.,"['130304345', '130400018']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2,Nedbrud
@@ -7114,6 +7382,15 @@ WO036661,Vand i grumseskuffen.  Vand i grumseskuffen.  Vand i grumseskuffen. ,"[
 WO036662,Melder Powder error. ,['130301624'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO036679,Tager strømmen. Tager strømmen.,"['130302205', '130302268']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 TC,Nedbrud
 WO036703,"Maskine vil ikke starte rengøring, genstartet flere gange, samt ofte problemer med at maskine siger at mælkebeholder er tom, selvom den er fyldt. ",['130302313'],[1.0],Thermoplan Kaffemaskine BW4 CTM2 2M TC 230V,Nedbrud
+WO036705,"1/11 opdatering: melder nu Piston error (TX0113) på alle kaffedrikke, både med espresso og med kaffebønner.
+Giver kun halve kopper, både alm kaffe og mælkedrikke.  1/11 opdatering: melder nu Piston error (TX0113) på alle kaffedrikke, både med espresso og med kaffebønner.
+Giver kun halve kopper, både alm kaffe og mælkedrikke.  1/11 opdatering: melder nu Piston error (TX0113) på alle kaffedrikke, både med espresso og med kaffebønner.
+Giver kun halve kopper, både alm kaffe og mælkedrikke.  1/11 opdatering: melder nu Piston error (TX0113) på alle kaffedrikke, både med espresso og med kaffebønner.
+Giver kun halve kopper, både alm kaffe og mælkedrikke.  1/11 opdatering: melder nu Piston error (TX0113) på alle kaffedrikke, både med espresso og med kaffebønner.
+Giver kun halve kopper, både alm kaffe og mælkedrikke.  1/11 opdatering: melder nu Piston error (TX0113) på alle kaffedrikke, både med espresso og med kaffebønner.
+Giver kun halve kopper, både alm kaffe og mælkedrikke.  1/11 opdatering: melder nu Piston error (TX0113) på alle kaffedrikke, både med espresso og med kaffebønner.
+Giver kun halve kopper, både alm kaffe og mælkedrikke.  1/11 opdatering: melder nu Piston error (TX0113) på alle kaffedrikke, både med espresso og med kaffebønner.
+Giver kun halve kopper, både alm kaffe og mælkedrikke. ","['130301923', '130301280R', '130301175R', '130301127', '130301867', '130301624', '130301535', '130301715']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO036706,"Kan ikke tænde maskine, når de tænder den, slår den alt andet elektricitet fra i køkkenet.",['131000009R'],[1.0],Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO036707,Touchskærm er stadig meget følsom. Ved autosteam kan de næsten ikke trykke på skærm og ved tryk på rens vil den ikke ramme. ,['130301720R'],[1.0],Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO036708,Løber vand ud under maskinen. ,['130302225'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 RS TC,Nedbrud
@@ -7125,9 +7402,11 @@ WO036749,Drypper mælk Drypper mælk,"['132000000', '130301923']","[1.0, 1.0]",T
 WO036773,Drypper på bordet ,['130301686'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO036775,Giver kun halve kopper.,['130305527'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO036781,Mælkeslangerne trænger til at blive udskiftet. Ser mugne ud. Ved sidste besøg er der konstateret at de er ekstra lange. ,['130302313'],[1.0],Thermoplan Kaffemaskine BW4c CTM2,Nedbrud
+WO036792,Maskine er helt død.  Maskine er helt død.  Maskine er helt død.  Maskine er helt død.  Maskine er helt død. ,"['130301317', '130301201', '130301624', '130301344', '130301504']","[1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
 WO036800,"12.04 Kirstine ringer at maskine ikke virker efter genstart, så maskine er helt ude af drift.
 Skærm driller forsat meget. Reagere ikke på tryk. Virker i en time, slukker i 10 minutter, og tænder igen. Virker så i ca. en time igen.",['130301720R'],[1.0],Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO036802,"Maskinen mælder mælketemperatur for høj, selvom mælken er ok. De har skiftet mælk og tjekket temperatur uden held.",['130302269'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
+WO036806,"Kommer ingen mælkeskum ved cappuccino. Kommer kun et `pif` lyd, idet skummen burde komme.  Kommer ingen mælkeskum ved cappuccino. Kommer kun et `pif` lyd, idet skummen burde komme.  Kommer ingen mælkeskum ved cappuccino. Kommer kun et `pif` lyd, idet skummen burde komme. ","['130302194', '130302282', '130302263']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO036813,"Oplever igen problemer med skærmen.
 Skærmen går ud. Maskinener tændt, men display er sort. Skærm tænder efter en genstart, men slukker igen kort efter.",['130301903'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO036830,Laver halve kopper ved cappuccino og latte Laver halve kopper ved cappuccino og latte Laver halve kopper ved cappuccino og latte Laver halve kopper ved cappuccino og latte,"['130302287', '130301923', '130301137', '130302294']","[1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P TC extern grums,Nedbrud
@@ -7140,6 +7419,7 @@ WO036885,Kommer vand ved forreste ben og ved grumseskuffen.  Kommer vand ved for
 WO036887,"Kan ikke starte op, går tilbage til kold start",['130301523'],[1.0],Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO036890,går i sort,['130301767'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO036891,"Giver kun vand ingen kaffe, kværner godt nok",['130301534'],[1.0],Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
+WO036901,"Maskinen melder bønnebeholder tom, men der er bønner på. Den lyder, som om den vil tage bønner ind, men gør det ikke, siger i stedet en underlig lyd. Maskinen melder bønnebeholder tom, men der er bønner på. Den lyder, som om den vil tage bønner ind, men gør det ikke, siger i stedet en underlig lyd. Maskinen melder bønnebeholder tom, men der er bønner på. Den lyder, som om den vil tage bønner ind, men gør det ikke, siger i stedet en underlig lyd. Maskinen melder bønnebeholder tom, men der er bønner på. Den lyder, som om den vil tage bønner ind, men gør det ikke, siger i stedet en underlig lyd. Maskinen melder bønnebeholder tom, men der er bønner på. Den lyder, som om den vil tage bønner ind, men gør det ikke, siger i stedet en underlig lyd. Maskinen melder bønnebeholder tom, men der er bønner på. Den lyder, som om den vil tage bønner ind, men gør det ikke, siger i stedet en underlig lyd. Maskinen melder bønnebeholder tom, men der er bønner på. Den lyder, som om den vil tage bønner ind, men gør det ikke, siger i stedet en underlig lyd. Maskinen melder bønnebeholder tom, men der er bønner på. Den lyder, som om den vil tage bønner ind, men gør det ikke, siger i stedet en underlig lyd. Maskinen melder bønnebeholder tom, men der er bønner på. Den lyder, som om den vil tage bønner ind, men gør det ikke, siger i stedet en underlig lyd.","['130301318', '130301892', '130301273', '130306229', '130301624', '130301317', '130301769', '130301893', '130301284']","[1.0, 1.0, 2.0, 0.3, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO036925,Røde pind ved rensenøgle er knækket.,['130302422'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P TC,Nedbrud
 WO036928,"Maskine drypper lidt, under maskinen omme bagved.
 Maskinen fungerer som normalt, og alt ser ud som normalt ift. afløb.",['130307140'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
@@ -7222,6 +7502,7 @@ WO037625,"Maskine bliver ved med at sige, Cleaning interrupted, når den er på 
 WO037629,Lækker vand / kaffe bagtil. Samt udløbstud sidder løst.  Lækker vand / kaffe bagtil. Samt udløbstud sidder løst. ,"['130301704', '130301523']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO037673,Meget gerne besøg fra morgenstunden. Maskinen melder Piston Error Meget gerne besøg fra morgenstunden. Maskinen melder Piston Error Meget gerne besøg fra morgenstunden. Maskinen melder Piston Error,"['130301280', '130301624', '130301534']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
 WO037674,Maskinen er utæt og drypper fra slange under maskinen.,['130301715'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
+WO037682,"Udlevere mælk under maskinen, mod venstre side, ved eks. cappuccino og der gives ikke espresso shot der til. Der løber vand ud under kaffemaskinen, mod venstre side. Udlevere mælk under maskinen, mod venstre side, ved eks. cappuccino og der gives ikke espresso shot der til. Der løber vand ud under kaffemaskinen, mod venstre side. Udlevere mælk under maskinen, mod venstre side, ved eks. cappuccino og der gives ikke espresso shot der til. Der løber vand ud under kaffemaskinen, mod venstre side. Udlevere mælk under maskinen, mod venstre side, ved eks. cappuccino og der gives ikke espresso shot der til. Der løber vand ud under kaffemaskinen, mod venstre side. Udlevere mælk under maskinen, mod venstre side, ved eks. cappuccino og der gives ikke espresso shot der til. Der løber vand ud under kaffemaskinen, mod venstre side. Udlevere mælk under maskinen, mod venstre side, ved eks. cappuccino og der gives ikke espresso shot der til. Der løber vand ud under kaffemaskinen, mod venstre side.","['130306229', '130305966', '130301923', '132000000', '130302294', '130302194']","[0.5, 2.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO037686,"Må gerne tages hurtigst muligt, maskinen er utæt, vandet løber hen af bordpladen. Hver morgen når de møder ind ligger der en sø under maskinen. De har tjekket drypbakken er korrekt monteret. ",['130302269'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P RS,Nedbrud
 WO037704,Maskinen vil ikke dosere mælk. Ingen fejlbesked og genstart virker ikke.,['130302313'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO037744,Pind i rød rensenøgle er knækket. ,['130302422'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P TC,Nedbrud
@@ -7269,6 +7550,7 @@ WO038053,"Kommer ingen kakao ud, kun mælkeskum. Forsøgt rengjort. ",['13030229
 WO038082,Komponentfejl. Ring ved ankomst for parkeringstilladelse.,['130302385'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
 WO038100,"Åbner kl. 11, ønsker besøg hurtigst muligt.
 Har prøvet at gennemføre rengøringsprogram 4 gange. Melder hver gang vandflowfejl. Kan fint give vand. Måske i step 3 eller 4 i rengøringsprocessen. Har prøvet at slukke/tænde maskine uden held.",['130302269'],[1.0],Thermoplan Kaffemaskine BW4c CTM2,Nedbrud
+WO038101,Lækker sort væske under maskine. (periodisk) Steamer ikke mælken varm nok og ved udløbshoved kommer espresso kun ud af et udløb.  Lækker sort væske under maskine. (periodisk) Steamer ikke mælken varm nok og ved udløbshoved kommer espresso kun ud af et udløb.  Lækker sort væske under maskine. (periodisk) Steamer ikke mælken varm nok og ved udløbshoved kommer espresso kun ud af et udløb.  Lækker sort væske under maskine. (periodisk) Steamer ikke mælken varm nok og ved udløbshoved kommer espresso kun ud af et udløb.  Lækker sort væske under maskine. (periodisk) Steamer ikke mælken varm nok og ved udløbshoved kommer espresso kun ud af et udløb.  Lækker sort væske under maskine. (periodisk) Steamer ikke mælken varm nok og ved udløbshoved kommer espresso kun ud af et udløb. ,"['130301860', '130301892', '130301535', '130301522', '130301811', '130301624']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO038114,Oplever at der kommer vand på gulvet. Ligner det kommer fra under spildbakken. Spildbakken flyder ikke over. ,['130302253'],[1.0],Thermoplan Kaffemaskine BW3 CBT2,Nedbrud
 WO038121,Melder piston error. Genstart er forsøgt.,['131000010R'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
 WO038124,Maskinen er utæt under renseprogram. Har tjekket at spildbakken sidder korrekt. De siger det kommer ud bagi maskinen. Indtelefoneret af 48 30 13 47 (kvinde),['130301492'],[1.0],Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
@@ -7284,6 +7566,7 @@ WO038207,"Dobbeltshot kommer på 6 sek. men bagefter på 22 sek. Er svingende. S
 Husk at aflæse kopper. Der skal afregnes for flexaftale Dobbeltshot kommer på 6 sek. men bagefter på 22 sek. Er svingende. Samt steamer og kogende vand gik ud. Forsøgt genstart. Står og brummer mere end den plejer også uden brug. 
 Husk at aflæse kopper. Der skal afregnes for flexaftale Dobbeltshot kommer på 6 sek. men bagefter på 22 sek. Er svingende. Samt steamer og kogende vand gik ud. Forsøgt genstart. Står og brummer mere end den plejer også uden brug. 
 Husk at aflæse kopper. Der skal afregnes for flexaftale","['130301624', '130301175R', '130301280']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
+WO038241,Ved tryk på kaffe kommer ingenting og cappuccino kommer kun mælk. Ingen fejlbesked på display.  Ved tryk på kaffe kommer ingenting og cappuccino kommer kun mælk. Ingen fejlbesked på display.  Ved tryk på kaffe kommer ingenting og cappuccino kommer kun mælk. Ingen fejlbesked på display.  Ved tryk på kaffe kommer ingenting og cappuccino kommer kun mælk. Ingen fejlbesked på display.  Ved tryk på kaffe kommer ingenting og cappuccino kommer kun mælk. Ingen fejlbesked på display.  Ved tryk på kaffe kommer ingenting og cappuccino kommer kun mælk. Ingen fejlbesked på display. ,"['130301318', '130301892', '130301624', '130301284', '130301273', '130301317']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO038246,Stift i rød rensenøgle er knækket. (han ville gerne at vi tjekkede blå rensenøgle også)  Stift i rød rensenøgle er knækket. (han ville gerne at vi tjekkede blå rensenøgle også)  Stift i rød rensenøgle er knækket. (han ville gerne at vi tjekkede blå rensenøgle også) ,"['130305981', '130302422', '130302385']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
 WO038254,Kaffemaskine blinker i display. Genstart er forsøgt.  ,['130300149'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P TC,Nedbrud
 WO038282,"Da de tænkte maskinen, gik den i sort, og nu drypper der vand ud under den.",['130301421'],[1.0],Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
@@ -7351,6 +7634,7 @@ WO038749,"Der løber mælk ud inde i maskinen og under maskinen.
 Iben",['130301492'],[1.0],Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO038761,Kakao stopper til igen. Har forsøgt med rengøring. (Har fortalt at vi kommer efter nytår),['130302380'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO038773,Går i stå i renseprogram Går i stå i renseprogram Går i stå i renseprogram Går i stå i renseprogram,"['130306183', '130302294', '130302403', '130302461']","[1.0, 3.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4 CTM2 P 2M AO TC extern grums 230V,Nedbrud
+WO038850,"Rengøring vil ikke starte. Rensetabs er halv opløst inde i rød rensenøgle. Forsøger med genstart af maskine, men vil gerne have besøg. Kommer bl.a. med flow error Rengøring vil ikke starte. Rensetabs er halv opløst inde i rød rensenøgle. Forsøger med genstart af maskine, men vil gerne have besøg. Kommer bl.a. med flow error Rengøring vil ikke starte. Rensetabs er halv opløst inde i rød rensenøgle. Forsøger med genstart af maskine, men vil gerne have besøg. Kommer bl.a. med flow error Rengøring vil ikke starte. Rensetabs er halv opløst inde i rød rensenøgle. Forsøger med genstart af maskine, men vil gerne have besøg. Kommer bl.a. med flow error Rengøring vil ikke starte. Rensetabs er halv opløst inde i rød rensenøgle. Forsøger med genstart af maskine, men vil gerne have besøg. Kommer bl.a. med flow error Rengøring vil ikke starte. Rensetabs er halv opløst inde i rød rensenøgle. Forsøger med genstart af maskine, men vil gerne have besøg. Kommer bl.a. med flow error","['130301715', '130301127', '130301529', '130301806', '130301773', '130305527']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO038852,Maskine har lækket vand under og foran maskine. Ikke lys knap ved grumseskuffen. Maskine skulle gerne være tilsluttet.  Maskine har lækket vand under og foran maskine. Ikke lys knap ved grumseskuffen. Maskine skulle gerne være tilsluttet.  Maskine har lækket vand under og foran maskine. Ikke lys knap ved grumseskuffen. Maskine skulle gerne være tilsluttet. ,"['130302269', '130302193', '130301590']","[1.0, 2.0, 2.0]",Thermoplan Kaffemaskine BW4c CTM2 P TC,Nedbrud
 WO038873,"Utæt under bunden, Set ved udførsel af rengøringsprogram.",['130302269'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 RS,Nedbrud
 WO038885,"Kaffen er meget tynd og ved thevand, bliver kop kun halvt fyldt op. ",['130302269'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 TC,Nedbrud
@@ -8032,6 +8316,7 @@ WO044051,"Update Gul bygning, stuen, til venstre. Giver ikke mælk.
 Display er svært at trykke på og vælge kaffe. ",['130301715'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO044062,"Beder om at få sat tabletter i den røde rensenøgle, melder så flowfejl, beder igen om tabletter i den røde nøgle og melder flowfejl. Har nu gjort dette flere gange. Der er ikke lukket for vandet.",['130301867'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO044069,Kan kun lave kold skyl.,['130301867'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
+WO044095,Maskine bliver ved med at bede om rengøring. Gennemført 2 renseprogrammer og derefter forsøgt med genstart.   Maskine bliver ved med at bede om rengøring. Gennemført 2 renseprogrammer og derefter forsøgt med genstart.   Maskine bliver ved med at bede om rengøring. Gennemført 2 renseprogrammer og derefter forsøgt med genstart.   Maskine bliver ved med at bede om rengøring. Gennemført 2 renseprogrammer og derefter forsøgt med genstart.   Maskine bliver ved med at bede om rengøring. Gennemført 2 renseprogrammer og derefter forsøgt med genstart.   Maskine bliver ved med at bede om rengøring. Gennemført 2 renseprogrammer og derefter forsøgt med genstart.   Maskine bliver ved med at bede om rengøring. Gennemført 2 renseprogrammer og derefter forsøgt med genstart.  ,"['130301280R', '130301522', '130301535', '130301624', '130301704', '130301175', '130301272']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 2.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO044097,Løber vand ud under maskine bagerst ved slanger. Opdaget ved rengøringsproces.  Løber vand ud under maskine bagerst ved slanger. Opdaget ved rengøringsproces. ,"['130302269', '130306229']","[1.0, 0.5]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO044100,Maskinen vil ikke trække kakao - skriver ingen fejlbesked.,['130307008'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO044121,Vil ikke registrere grumseskuffe. Har forsøgt med anden maskines grumse skuffe som den godt vil registrere. Ligner der mangler en censor. ,['130301385'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P RS,Nedbrud
@@ -8299,6 +8584,7 @@ WO046091,"Sag 2 af 3.
 Giver ikke mælk til hver anden latte. Oplevede det også for et par uger siden.",['130302287'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO046095,Tager sikringen. Tager sikringen.,"['130301338', '130301453']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO046096,"Maskinen beder om rens hver morgen, når de starter den op ved 5 tiden.  De kører og fuldfører rens hver aften, lige inden de lukker den ned. Den burde derfor ikke bede om rens om morgenen.",['130301259'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
+WO046098,Drypper med vand på bordet,['130301443'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO046105,"Knapholder for steam er faldet ind i maskinen. Kan ikke steame hverken manuelt eller auto, da begge knapper sidder sammen på knapholder. Knapholder for steam er faldet ind i maskinen. Kan ikke steame hverken manuelt eller auto, da begge knapper sidder sammen på knapholder. Knapholder for steam er faldet ind i maskinen. Kan ikke steame hverken manuelt eller auto, da begge knapper sidder sammen på knapholder.","['130301811', '130301860', '130301918']","[1.0, 1.0, 1.0]",Te og Steam BW3 TS 400 V,Nedbrud
 WO046108,Maskinen melder piston error. Maskinen melder piston error. Maskinen melder piston error. Maskinen melder piston error. Maskinen melder piston error.,"['130301175R', '130301201', '130301317', '130301624', '130301361']","[1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO046120,Giver mindre og mindre mælk til drikkene. Giver mindre og mindre mælk til drikkene.,"['130301715', '132000000']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
@@ -8354,6 +8640,7 @@ OBS!! Tekniker må ikke tilkoble maskinen uden aftale med Mahmound, da den udkob
 WO046312,"Maskinen melder Vandflow fejl De har tjekket og kan ikke se, der skulle være noget galt med vandtilførslen Maskinen melder Vandflow fejl De har tjekket og kan ikke se, der skulle være noget galt med vandtilførslen","['130307949', '130301657']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P RS TC,Nedbrud
 WO046317,"Fejlsøge på maskinen, vil ikke udlevere mælk. Har forsøgt at rense/efterse mælkesuge slange på maskine uden held. Fejlsøge på maskinen, vil ikke udlevere mælk. Har forsøgt at rense/efterse mælkesuge slange på maskine uden held.","['130307949', '130301137']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4c CTM2 P TC,Nedbrud
 WO046321,"Vil ikke kværne, stopper hver anden gang, som om der er noget der sidder i kværnen. Vil ikke kværne, stopper hver anden gang, som om der er noget der sidder i kværnen. Vil ikke kværne, stopper hver anden gang, som om der er noget der sidder i kværnen. Vil ikke kværne, stopper hver anden gang, som om der er noget der sidder i kværnen. Vil ikke kværne, stopper hver anden gang, som om der er noget der sidder i kværnen.","['131000009R', '130301342', '130301624', '130301280', '130301175']","[1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2 Starbucks,Nedbrud
+WO046326,Røde pind bag rensenøgle er knækket Røde pind bag rensenøgle er knækket Røde pind bag rensenøgle er knækket Røde pind bag rensenøgle er knækket,"['131000013R', '130302262', '130302422', '130307856']","[1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4 CTM2 P 2M AO TC extern grums 230V,Nedbrud
 WO046343,"Ring inden besøg, så de kan melde din ankomst til receptionen. Taler engelsk.
 Maskine drypper fra drypbakkes hjørne. Der er ingen synlig skade/defekt på drypbakke. Ring inden besøg, så de kan melde din ankomst til receptionen. Taler engelsk.
 Maskine drypper fra drypbakkes hjørne. Der er ingen synlig skade/defekt på drypbakke. Ring inden besøg, så de kan melde din ankomst til receptionen. Taler engelsk.
@@ -8516,6 +8803,11 @@ WO047428,"Skærm er sort. Har prøvet genstart. Når maskine starter op, er der 
 WO047429,Kommer vand på bagpanelet af maskinen og drypper også fra kalkfilter. Kommer vand på bagpanelet af maskinen og drypper også fra kalkfilter.,"['130301704', '130400018']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO047442,Dårlig mælk,['130301127'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO047450,"Under rengøring kommer der sæbevand ud under maskinen. Kan ikke se hvorfra, da der kommer meget.",['131000011R'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
+WO047457,"Kan høre at den bobler/koger inde i maskinen.
+Drypper vand inde i maskinen, der hvor vandet kommer fra. Kan se det når grumseskuffe er taget ud.
+Kunde er rådgivet til at slukke maskinen. Kan høre at den bobler/koger inde i maskinen.
+Drypper vand inde i maskinen, der hvor vandet kommer fra. Kan se det når grumseskuffe er taget ud.
+Kunde er rådgivet til at slukke maskinen.","['130307856', '130302262']","[1.0, 1.0]",Thermoplan Kaffemaskine BW4 CTM2 2M RL TC 230V,Nedbrud
 WO047458,Ved start af rengøring kommer de vand midt under maskine og den larmer meget. Samt til sidst kommer der meget vand. Har også set at der efter bryg kommer vand under.,['130302380'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P TC,Nedbrud
 WO047493,"Er i Hirtshals 7/9, 9/9 og 11/9 kl. 8.00 - 9.15. 
  Lækker væske under bunden. Bagved maskinen, kommer mere for hver gang den bruges.",['131000009R'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
@@ -8563,6 +8855,7 @@ WO047748,"Meget gerne i dag, hvis muligt. Den røde pind til rensetabs er knækk
 WO047752,Kakao stopper til og løber over.,['130302380'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO047754,"Der kommer ret meget vand ud af maskinen ved siden af udleveringshovedet, som om der er noget der ikke sidder korrekt.  En Americano bliver ex. ikke ret stor. Der kommer ret meget vand ud af maskinen ved siden af udleveringshovedet, som om der er noget der ikke sidder korrekt.  En Americano bliver ex. ikke ret stor.","['130301686', '130301175']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
 WO047755,"Meget gerne i dag, hvis muligt. Maskinen renser ikke mælken godt nok. Begge tabs er halvbløde, når renseprogram er færdigt, og dermed ikke brugt.",['130300149'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
+WO047767,"Meget gerne besøg senest torsdag. Løbetiden er ikke ok. Der kommer kun halve kopper af fx Americano. De har renset en ekstra gang, men uden held. Meget gerne besøg senest torsdag. Løbetiden er ikke ok. Der kommer kun halve kopper af fx Americano. De har renset en ekstra gang, men uden held. Meget gerne besøg senest torsdag. Løbetiden er ikke ok. Der kommer kun halve kopper af fx Americano. De har renset en ekstra gang, men uden held. Meget gerne besøg senest torsdag. Løbetiden er ikke ok. Der kommer kun halve kopper af fx Americano. De har renset en ekstra gang, men uden held. Meget gerne besøg senest torsdag. Løbetiden er ikke ok. Der kommer kun halve kopper af fx Americano. De har renset en ekstra gang, men uden held. Meget gerne besøg senest torsdag. Løbetiden er ikke ok. Der kommer kun halve kopper af fx Americano. De har renset en ekstra gang, men uden held.","['130301535', '130301317', '130301624', '130301284', '130301318', '130301892']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO047784,Nøgle er knækket i frontpanel og panel sidder løst. Har sat tape på for at panel ikke sidder for løst.,['130301471'],[1.0],Thermoplan Kaffemaskine BW3 CTMS2 ,Nedbrud
 WO047794,"Den er utæt under rengøring, der kommer vand ud under maskinen.
 Deres kakao virker ikke. Den er utæt under rengøring, der kommer vand ud under maskinen.
@@ -8695,6 +8988,7 @@ WO048810,indmeldt telefonisk 71725500 - melder Flow error.  Løbetiden er meget 
 WO048817,Der løber vand ud under maskinen i forbindelse med rengøring.,['130307949'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO048819,Melder waterflow error,['130302403'],[2.0],Thermoplan Kaffemaskine BW4c CTM2,Nedbrud
 WO048820,Udløbstiden er meget lang og maskine melder overtime error. Updatering: vand er åbent og nu uldleverer den ingenting. Udløbstiden er meget lang og maskine melder overtime error. Updatering: vand er åbent og nu uldleverer den ingenting.,"['130301272', '130301318']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
+WO048837,Melder piston error og udleverer inden shots. Grumseskuffe er tømt og forsøgt med manuelt skyl og genstart. Melder piston error og udleverer inden shots. Grumseskuffe er tømt og forsøgt med manuelt skyl og genstart. Melder piston error og udleverer inden shots. Grumseskuffe er tømt og forsøgt med manuelt skyl og genstart. Melder piston error og udleverer inden shots. Grumseskuffe er tømt og forsøgt med manuelt skyl og genstart. Melder piston error og udleverer inden shots. Grumseskuffe er tømt og forsøgt med manuelt skyl og genstart. Melder piston error og udleverer inden shots. Grumseskuffe er tømt og forsøgt med manuelt skyl og genstart.,"['130305536', '130301280', '130301624', '130301535', '130301175', '130301522']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO048883,Under bryg kommer der vand/kaffe under maskine ved venstre bagben. Under bryg kommer der vand/kaffe under maskine ved venstre bagben.,"['132000000', '130307140']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
 WO048916,Melder komponentfejl 32 igen under rengøring. (se intern),['131000013R'],[1.0],Thermoplan Kaffemaskine BW4 CTM2 PF RL TC AO,Nedbrud
 WO048918,Maskine i foye 2. sal city tower ved konference BW3 cbtm varmer ikke op. har forsøgt med genstart.,['130301917'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
@@ -8948,6 +9242,8 @@ WO050727,Udleverer ingen kaffe og melder ingen fejl. Forsøgt med genstart. Udle
 WO050754,"Stor lækage fra under maskinen. Også lækage fra en hvid beholder i skab under maskine. Der løber vand til etagen nede under, men det er uvist om det er fra denne maskine.",['130301994'],[1.0],Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO050755,Mælk er utæt.,['130306229'],[0.3],Thermoplan Kaffemaskine BW4c CTM2 RS TC,Nedbrud
 WO050757,Maskine melder piston error. fået besked af kollegaer.,['130301201'],[1.0],Thermoplan Kaffemaskine BW3 CBT2,Nedbrud
+WO050765,Maskine melder at bean hopper 1 is empty. De har haft beholder af og på.,['130307856'],[1.0],Thermoplan Kaffemaskine BW4 CTM2 2M RL TC 230V,Nedbrud
+WO050774,Når den kværner kaffe laver den en mærkelig lyde og den producere ikke mælk. Når den kværner kaffe laver den en mærkelig lyde og den producere ikke mælk. Når den kværner kaffe laver den en mærkelig lyde og den producere ikke mælk. Når den kværner kaffe laver den en mærkelig lyde og den producere ikke mælk. Når den kværner kaffe laver den en mærkelig lyde og den producere ikke mælk. Når den kværner kaffe laver den en mærkelig lyde og den producere ikke mælk.,"['130301272', '130301624', '130301280', '130301175R', '130307140', '130302227']","[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
 WO050780,Sag 1 af 2. Slog sikring hele tiden i fredags. Har i dag kunne tænde den. Kaffemaskiner er på hver deres sikringsgruppe.,['130305722'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 TC,Nedbrud
 WO050781,Sag 2 af 2. Slår relæ med et par timers mellemrum. Kan tænde maskine efter relæ er slået til igen. Men relæ hopper igen. Kaffemaskiner er på hver deres sikringsgruppe.,['130305966'],[2.0],Thermoplan Kaffemaskine BW4c CTM2 TC,Nedbrud
 WO050784,Kakao flyder over i tragt. Har haft den ude og rengjort.,['130302380'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
@@ -9062,6 +9358,10 @@ WO051578,Ring og info tid for besøg. Melder Piston Error ved alle kaffedrikke.,
 WO051579,"Sag 1 af 2.
 Giver kun 1 cm i koppen. Kollegaer siger at der er mislyd, det lyder som om den ikke tager vand ind. Har ingen beskrivelse af mislyd.",['131000006R'],[1.0],Thermoplan Kaffemaskine BW3 CBT2 Extern grums TC,Nedbrud
 WO051595,Drypper med vand under maskine venstre side. De har slukket for maskinen.,['130301530'],[1.0],Thermoplan Kaffemaskine BW3 CTMC2,Nedbrud
+WO051610,"Melder 129 - Dampkedel tilstoppet
+Har vist 120 - Fejl ved rengøring af beholder. Info til kunde at det umiddelbart ikke er fejl på maskine, men fejl i placering af slanger i beholder. Melder 129 - Dampkedel tilstoppet
+Har vist 120 - Fejl ved rengøring af beholder. Info til kunde at det umiddelbart ikke er fejl på maskine, men fejl i placering af slanger i beholder. Melder 129 - Dampkedel tilstoppet
+Har vist 120 - Fejl ved rengøring af beholder. Info til kunde at det umiddelbart ikke er fejl på maskine, men fejl i placering af slanger i beholder.","['130301114', '130307283', '130307856']","[1.0, 1.0, 1.0]",Thermoplan Kaffemaskine BW4 CTM2 P TC 230V,Nedbrud
 WO051631,"Når maskine tændes, slår den sikring/relæ. Når maskine tændes, slår den sikring/relæ. Når maskine tændes, slår den sikring/relæ.","['130301811', '130301796', '130301860']","[1.0, 1.0, 1.0]",Te og Steam BW3 TS 400 V,Nedbrud
 WO051633,"Efter rengøring kommer kun 1/3 i koppen ved latte. Er kommet ny mælk i, men lidt uvist om der er en prop. Bedt dem lave en ny rengøring.",['132000000'],[1.0],Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO051643,Giver ikke mælk.,['130301127'],[1.0],Thermoplan Kaffemaskine BW3 CTM2,Nedbrud
@@ -9217,6 +9517,7 @@ Michelle Filterhoved utæt på kalkfilter
 Michelle","['130304381', '130400018']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CBTM2,Nedbrud
 WO052727,"Kommer meget vand ud under maskinen under rengøring. Kan ikke se om det kommer fra højre eller venstre maskine, men ligger mest vand under højre maskine.",['130302269'],[1.0],Thermoplan Kaffemaskine BW4c CTM2 TC,Nedbrud
 WO052730,"Maskine vil ikke udlevere mælkedrikke (latte, cortado mm). Kan fint udlevere sort kaffe. Maskine vil ikke udlevere mælkedrikke (latte, cortado mm). Kan fint udlevere sort kaffe. Maskine vil ikke udlevere mælkedrikke (latte, cortado mm). Kan fint udlevere sort kaffe. Maskine vil ikke udlevere mælkedrikke (latte, cortado mm). Kan fint udlevere sort kaffe.","['130302313', '130301923', '130302461', '130302294']","[1.0, 1.0, 1.0, 3.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
+WO052734,Kommer vand ud bagerst inde i maskinen ved bagklædningen bag grumsespanden. Har slukket for maskinen. Når hun trykker på bagbeklædning kommer der meget vand. Kommer vand ud bagerst inde i maskinen ved bagklædningen bag grumsespanden. Har slukket for maskinen. Når hun trykker på bagbeklædning kommer der meget vand. Kommer vand ud bagerst inde i maskinen ved bagklædningen bag grumsespanden. Har slukket for maskinen. Når hun trykker på bagbeklædning kommer der meget vand. Kommer vand ud bagerst inde i maskinen ved bagklædningen bag grumsespanden. Har slukket for maskinen. Når hun trykker på bagbeklædning kommer der meget vand. Kommer vand ud bagerst inde i maskinen ved bagklædningen bag grumsespanden. Har slukket for maskinen. Når hun trykker på bagbeklædning kommer der meget vand. Kommer vand ud bagerst inde i maskinen ved bagklædningen bag grumsespanden. Har slukket for maskinen. Når hun trykker på bagbeklædning kommer der meget vand.,"['130302194', '130306229', '130307856', '130302253', '130301992', '130302193']","[1.0, 0.4, 1.0, 1.0, 1.0, 2.0]",Thermoplan Kaffemaskine BW4c CTM2 P,Nedbrud
 WO052740,Der ligger vand i grumsespanden. Der ligger vand i grumsespanden.,"['130301892', '130301318']","[1.0, 1.0]",Thermoplan Kaffemaskine BW3 CTS2,Nedbrud
 WO052765,"Nøgle til rensetabs er gået i stykker.
 De vil gerne have besøg i dag, da de kun har den ene kaffemaskine.

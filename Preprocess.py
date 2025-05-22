@@ -10,7 +10,7 @@ warnings.filterwarnings("ignore", category=UserWarning, module="openpyxl")
 
 
 # Configuration constants
-INPUT_EXCEL = 'maybe_final/data/Arbejdsordre med afskrevet reservedele.xlsx'
+INPUT_EXCEL = 'data/Arbejdsordre med afskrevet reservedele.xlsx'
 #INPUT_CSV = 'data/trainingdatabentaxnew.csv'
 MIN_SAMPLES_PER_PART = 5
 PATTERN_BW = r"\bBW[34]\w*\b"
@@ -111,9 +111,19 @@ def filter_workorders(df: pd.DataFrame) -> pd.DataFrame:
     ]
     print_filter_stats(before, len(df_filtered), "Non-empty Product ID list")
 
+    #max 5 product ids per workorder
+    before = len(df_filtered)
+    # make mask for max 5
+    mask_max5 = df_filtered[PRODUCT_ID_COL].apply(lambda ids: len(ids) <= 5)
+
+    #apply filter
+    df_filtered = df_filtered[mask_max5]
+
+    print_filter_stats(before, len(df_filtered), "≤ 5 Product IDs per workorder")
+
+
     print(f"Work orders after filtering: {len(df_filtered)}")
     return df_filtered
-
 
 def impute_quantity(df: pd.DataFrame) -> tuple[pd.DataFrame, list[float], list[float]]:
     """
